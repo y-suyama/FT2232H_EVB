@@ -21,4 +21,5 @@
   (lib (name "LESD5D5-0CT1G")(type "KiCad")(uri "${KIPRJMOD}/usrlib/LESD5D5-0CT1G/footprints.pretty")(options "")(descr ""))
   (lib (name "DSWB03LHGET")(type "KiCad")(uri "${KIPRJMOD}/usrlib/DSWB03LHGET/DSWB03BLHGET.pretty")(options "")(descr ""))
   (lib (name "93LC56BT-I")(type "KiCad")(uri "${KIPRJMOD}/usrlib/93LC56BT-I/footprints.pretty")(options "")(descr ""))
+  (lib (name "ADS1118IDGSR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/ADS1118IDGSR/footprints.pretty")(options "")(descr ""))
 )

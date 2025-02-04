@@ -1852,18 +1852,6 @@
 		(uuid "feecbf25-9a14-4179-821e-fe09876f267f")
 	)
 	(rectangle
-		(start 36.576 180.594)
-		(end 60.833 186.182)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 0652fd74-dcf2-4e02-b4c5-9eaaef8bb3c8)
-	)
-	(rectangle
 		(start 36.576 169.418)
 		(end 60.833 175.006)
 		(stroke
@@ -1948,18 +1936,6 @@
 		(uuid ba32c75c-0edf-4f4c-9ebe-d5ddad0be280)
 	)
 	(rectangle
-		(start 60.833 180.594)
-		(end 72.898 186.182)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid dda067c1-426a-45de-a7de-f5c37fc5f3d2)
-	)
-	(rectangle
 		(start 36.576 175.006)
 		(end 60.833 180.594)
 		(stroke
@@ -1995,9 +1971,9 @@
 		)
 		(uuid "2148b354-5839-4463-9b29-4251827aa767")
 	)
-	(text "11"
+	(text "11(default)"
 		(exclude_from_sim no)
-		(at 48.895 183.515 0)
+		(at 49.022 178.181 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2016,7 +1992,7 @@
 		)
 		(uuid "4c7b8fe8-1284-4559-b9d2-eeb925cec0d2")
 	)
-	(text "01"
+	(text "10"
 		(exclude_from_sim no)
 		(at 48.768 172.466 0)
 		(effects
@@ -2028,7 +2004,7 @@
 	)
 	(text "FPGA"
 		(exclude_from_sim no)
-		(at 66.802 183.515 0)
+		(at 66.421 178.054 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2036,7 +2012,7 @@
 		)
 		(uuid "72a8f470-05da-4d46-a5d9-174a4cd264fe")
 	)
-	(text "JTAG_SEL"
+	(text "JTAG_SEL(DPSW 2,3)"
 		(exclude_from_sim no)
 		(at 49.022 161.417 0)
 		(effects
@@ -2045,16 +2021,6 @@
 			)
 		)
 		(uuid "7649a734-cf12-4fec-8ff9-f81053fe0d06")
-	)
-	(text "00(default)"
-		(exclude_from_sim no)
-		(at 48.895 166.751 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "7bc04dba-3173-4d9a-bd0d-29bd3550444a")
 	)
 	(text "接続先\n"
 		(exclude_from_sim no)
@@ -2066,25 +2032,15 @@
 		)
 		(uuid "a11f4afb-c911-4c49-ab07-f9e7886d7e5a")
 	)
-	(text "10"
+	(text "00/01"
 		(exclude_from_sim no)
-		(at 48.895 177.927 0)
+		(at 49.022 166.624 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "ad07c609-9443-456f-bc7a-f150a5146058")
-	)
-	(text "MCU"
-		(exclude_from_sim no)
-		(at 66.802 166.751 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b63e4a56-acf4-4a42-bb9c-bd037f04f69a")
 	)
 	(text "PIN Header"
 		(exclude_from_sim no)
@@ -2109,7 +2065,7 @@
 	)
 	(text "MCU"
 		(exclude_from_sim no)
-		(at 66.675 177.8 0)
+		(at 66.548 166.624 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2131,7 +2087,6 @@
 	(hierarchical_label "TCK_FT2232H"
 		(shape input)
 		(at 48.006 51.689 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2143,7 +2098,6 @@
 	(hierarchical_label "SWIO_MCU"
 		(shape bidirectional)
 		(at 226.06 56.769 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2155,7 +2109,6 @@
 	(hierarchical_label "TDO_PIN"
 		(shape input)
 		(at 226.568 95.758 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2167,7 +2120,6 @@
 	(hierarchical_label "TMS_FPGA"
 		(shape input)
 		(at 226.568 131.699 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2179,7 +2131,6 @@
 	(hierarchical_label "TDO_FPGA"
 		(shape input)
 		(at 226.568 125.349 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2191,7 +2142,6 @@
 	(hierarchical_label "TMS_FT2232H"
 		(shape input)
 		(at 48.006 70.739 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2203,7 +2153,6 @@
 	(hierarchical_label "TCK_FPGA"
 		(shape output)
 		(at 226.568 112.649 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2215,7 +2164,6 @@
 	(hierarchical_label "TMS_PIN"
 		(shape input)
 		(at 226.568 102.108 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2227,7 +2175,6 @@
 	(hierarchical_label "SWCLK_MCU"
 		(shape output)
 		(at 226.06 50.419 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2239,7 +2186,6 @@
 	(hierarchical_label "TDI_FPGA"
 		(shape output)
 		(at 226.568 118.999 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2251,7 +2197,6 @@
 	(hierarchical_label "JTAG_SEL1"
 		(shape input)
 		(at 48.641 136.779 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2263,7 +2208,6 @@
 	(hierarchical_label "TDI_FT2232H"
 		(shape input)
 		(at 48.006 58.039 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2275,7 +2219,6 @@
 	(hierarchical_label "TDI{slash}SWDIO_PIN"
 		(shape output)
 		(at 226.568 89.408 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2287,7 +2230,6 @@
 	(hierarchical_label "TCK{slash}SWCLK_PIN"
 		(shape output)
 		(at 226.568 83.058 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2299,7 +2241,6 @@
 	(hierarchical_label "JTAG_SEL0"
 		(shape input)
 		(at 48.514 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2311,7 +2252,6 @@
 	(hierarchical_label "TDO_FT2232H"
 		(shape output)
 		(at 48.006 64.389 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

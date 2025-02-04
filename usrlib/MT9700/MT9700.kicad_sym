@@ -177,7 +177,7 @@
 				)
 			)
 			(pin input line
-				(at 3.81 -3.81 0)
+				(at 3.81 -7.62 0)
 				(length 1.27)
 				(name "SET"
 					(effects
@@ -195,7 +195,7 @@
 				)
 			)
 			(pin input line
-				(at 3.81 -7.62 0)
+				(at 3.81 -3.81 0)
 				(length 1.27)
 				(name "EN"
 					(effects
