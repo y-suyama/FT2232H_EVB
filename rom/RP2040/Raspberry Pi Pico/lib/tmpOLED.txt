@@ -1,0 +1,35 @@
+from machine import Pin, I2C
+import ssd1306
+
+# I2Cの初期化
+i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=200000)
+
+# OLEDディスプレイの初期化
+oled_width = 128
+oled_height = 64
+oled = ssd1306.SSD1306_I2C(oled_width, oled_height, i2c)
+
+# 画面をクリア
+oled.fill(0)
+
+# 画面を4等分する線を描画
+oled.hline(0, oled_height // 2, oled_width, 1)
+oled.vline(oled_width // 2, 0, oled_height, 1)
+
+# 各領域の上部にラベルを描画
+oled.text('CH1', 0, 0)
+oled.text('CH2', oled_width // 2, 0)
+oled.text('CH3', 0, oled_height // 2)
+oled.text('CH4', oled_width // 2, oled_height // 2)
+
+# 各領域に少数点以下二桁の任意の数字を描画
+# 例として各領域にランダムな数字を描画します
+import random
+oled.text('{:.2f}'.format(random.uniform(0, 100)), 0, oled_height // 4)
+oled.text('{:.2f}'.format(random.uniform(0, 100)), oled_width // 2, oled_height // 4)
+oled.text('{:.2f}'.format(random.uniform(0, 100)), 0, 3 * oled_height // 4)
+oled.text('{:.2f}'.format(random.uniform(0, 100)), oled_width // 2, 3 * oled_height // 4)
+
+# 画面に表示
+oled.show()
+

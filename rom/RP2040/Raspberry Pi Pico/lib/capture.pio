@@ -1,0 +1,100 @@
+.program capture
+
+.origin 0
+    irq wait 4
+INITIALIZE:
+    mov isr, pins
+    push
+    mov x, !null
+    jmp pin NOW_H
+NOW_L:
+    jmp x-- NEXT_L
+NEXT_L:
+    jmp pin GOTO_H
+    jmp NOW_L [2]
+GOTO_H:
+    in x, 32
+    push [1]
+NOW_H:
+    jmp x-- NEXT_H
+NEXT_H:
+    jmp pin STAY_H
+    in x, 32
+    push
+    jmp NOW_L
+STAY_H:
+    jmp NOW_H [2]
+
+from machine import Pin, mem32
+import rp2
+import uctypes
+
+# DMA setup
+DMA_BASE = 0x50000000
+DMA_CHANNEL_OFFSET = 0x40
+
+# DMA channel register map
+DMA_CHANNEL_REGS = {
+    "read_addr": 0x00,
+    "write_addr": 0x04,
+    "transfer_count": 0x08,
+    "ctrl_trig": 0x0C
+}
+
+def dma_setup(channel, read_addr, write_addr, transfer_count, dreq):
+    base = DMA_BASE + DMA_CHANNEL_OFFSET * channel
+    mem32[base + DMA_CHANNEL_REGS["read_addr"]] = read_addr
+    mem32[base + DMA_CHANNEL_REGS["write_addr"]] = write_addr
+    mem32[base + DMA_CHANNEL_REGS["transfer_count"]] = transfer_count
+    mem32[base + DMA_CHANNEL_REGS["ctrl_trig"]] = 0x3C000000 | (dreq << 15) | 0x00
+
+@rp2.asm_pio(in_shiftdir=rp2.PIO.SHIFT_LEFT, autopush=True)
+def capture():
+    wrap_target()
+    in_(pins, 32)
+    push(block)
+    wrap()
+
+# Start timer capture
+def capture_enable(pio, sm, pin, write_buffer, counts):
+    pio.remove_program(capture)  # Clean up if the program was already running
+    pio.add_program(capture, max_program_size=32)  # Adjust the size as needed
+
+    sm = rp2.StateMachine(sm, capture, freq=2000, in_base=Pin(pin))
+    sm.active(1)
+
+    # Set up DMA
+    write_addr = uctypes.addressof(write_buffer)
+    dma_setup(sm, uctypes.addressof(pio.rx_fifo[sm]), write_addr, counts, rp2.PIO(sm).dma_req)
+
+# Stop timer capture
+def capture_disable(sm):
+    sm.active(0)
+
+# Get the current counter value while timer capture is stopped
+def get_counter(sm):
+    sm.exec("in x, 32")
+    sm.exec("push block")
+    return sm.get()
+
+# Usage example
+MEMORY_SIZE = 256
+log_memory0 = bytearray(MEMORY_SIZE * 4)
+log_memory1 = bytearray(MEMORY_SIZE * 4)
+log_memory2 = bytearray(MEMORY_SIZE * 4)
+
+# Start log
+capture_enable(rp2.PIO(0), 0, 7, log_memory0, MEMORY_SIZE)
+capture_enable(rp2.PIO(0), 1, 8, log_memory1, MEMORY_SIZE)
+capture_enable(rp2.PIO(0), 2, 9, log_memory2, MEMORY_SIZE)
+
+# Stop log
+capture_disable(rp2.PIO(0).state_machine[0])
+capture_disable(rp2.PIO(0).state_machine[1])
+capture_disable(rp2.PIO(0).state_machine[2])
+
+# Logging time [unit]
+last_count = get_counter(rp2.PIO(0).state_machine[2])
+print("Last count: ", last_count)
+
+

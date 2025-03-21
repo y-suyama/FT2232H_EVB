@@ -51,17 +51,17 @@ def conv(no, ch, offset):
     # ADS1118 Config Register Read/Write
     try:
         spi1_cs_n(0)
-        utime.sleep(0.1)
+#        utime.sleep(0.05)
         spi.write(txdata)
-        utime.sleep(0.1)
+        utime.sleep(0.15)
     finally:
         spi1_cs_n(1)
-    utime.sleep(0.1)
+#    utime.sleep(0.15)
     try:
         spi1_cs_n(0)
-        utime.sleep(0.1)
+#        utime.sleep(0.05)
         spi.write_readinto(txdata, rxdata)
-        utime.sleep(0.1)
+        utime.sleep(0.15)
     finally:
         spi1_cs_n(1)
 
@@ -110,17 +110,17 @@ def inttmp(no):
     # ADS1118 Config Register Read/Write
     try:
         spi1_cs_n(0)
-        utime.sleep(0.1)
+#        utime.sleep(0.05)
         spi.write(txdata)
-        utime.sleep(0.1)
+        utime.sleep(0.15)
     finally:
         spi1_cs_n(1)
-        utime.sleep(0.1)
+#        utime.sleep(0.15)
     try:
         spi1_cs_n(0)
-        utime.sleep(0.1)
+#        utime.sleep(0.05)
         spi.write_readinto(txdata, rxdata)
-        utime.sleep(0.1)
+        utime.sleep(0.15)
     finally:
         spi1_cs_n(1)
 
