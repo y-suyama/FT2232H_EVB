@@ -8883,13 +8883,8 @@
 		)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 195.961 180.34)
-		(end 203.581 182.88)
-=======
 		(start 225.298 181.102)
 		(end 232.918 183.642)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8914,13 +8909,8 @@
 		(uuid 10c038dd-1106-4094-8e0c-67b60fd086d4)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.228 195.199)
-		(end 180.848 197.739)
-=======
 		(start 202.565 195.961)
 		(end 210.185 198.501)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8932,13 +8922,8 @@
 		(uuid 3ab7db7f-30f2-42dd-a736-72360f9acead)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 219.964 128.397)
-		(end 227.584 130.937)
-=======
 		(start 249.301 129.159)
 		(end 256.921 131.699)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8950,13 +8935,8 @@
 		(uuid 5ef25513-5d0b-421c-873b-edf1603e002c)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 195.961 177.673)
-		(end 203.581 180.213)
-=======
 		(start 225.298 178.435)
 		(end 232.918 180.975)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8968,13 +8948,8 @@
 		(uuid 665f0e3f-5282-4236-9bd1-4297c1480579)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 195.961 185.039)
-		(end 203.581 187.579)
-=======
 		(start 225.298 185.801)
 		(end 232.918 188.341)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8986,13 +8961,8 @@
 		(uuid 68aa3fcd-1e94-4baa-8585-40b6ecd7c8e6)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.228 192.659)
-		(end 180.848 195.199)
-=======
 		(start 202.565 193.421)
 		(end 210.185 195.961)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9005,11 +8975,7 @@
 	)
 	(rectangle
 		(start 13.589 114.046)
-<<<<<<< HEAD
-		(end 136.525 297.307)
-=======
 		(end 164.592 297.307)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type default)
@@ -9021,13 +8987,8 @@
 		(uuid 71240dc5-a7e5-47f5-9cb0-11cf61e53f91)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.228 197.739)
-		(end 180.848 200.279)
-=======
 		(start 202.565 198.501)
 		(end 210.185 201.041)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9052,13 +9013,8 @@
 		(uuid 9027ebb9-9ec2-4cc1-aba5-21fb7f90782b)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 137.668 114.3)
-		(end 264.033 227.838)
-=======
 		(start 167.005 115.062)
 		(end 293.37 228.6)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type default)
@@ -9083,13 +9039,8 @@
 		(uuid d1e574cf-d28a-408a-b567-1c315eceef18)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 196.088 195.326)
-		(end 203.708 197.866)
-=======
 		(start 225.425 196.088)
 		(end 233.045 198.628)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9101,13 +9052,8 @@
 		(uuid dbe874f3-da4b-494f-bd7e-5e6d04cdacca)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 195.961 187.579)
-		(end 203.581 190.119)
-=======
 		(start 225.298 188.341)
 		(end 232.918 190.881)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9119,13 +9065,8 @@
 		(uuid de14aecb-ca8e-4f32-a355-72ca14849cb3)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.355 175.133)
-		(end 180.975 177.673)
-=======
 		(start 202.692 175.895)
 		(end 210.312 178.435)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9137,13 +9078,8 @@
 		(uuid df157251-346b-49dd-8c74-0202f56b7c3b)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.228 190.119)
-		(end 180.848 192.659)
-=======
 		(start 202.565 190.881)
 		(end 210.185 193.421)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9155,13 +9091,8 @@
 		(uuid df820ce6-eac8-47c2-b456-ab1fb00020cb)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 196.088 192.659)
-		(end 203.708 195.199)
-=======
 		(start 225.425 193.421)
 		(end 233.045 195.961)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9173,13 +9104,8 @@
 		(uuid e4267bd1-b91c-4908-84a7-e486185316f3)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.355 177.8)
-		(end 180.975 180.34)
-=======
 		(start 202.692 178.562)
 		(end 210.312 181.102)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9191,13 +9117,8 @@
 		(uuid e7f40ffc-c15d-4b4b-8c70-b456f83b6a7e)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 202.819 128.778)
-		(end 210.439 131.318)
-=======
 		(start 232.156 129.54)
 		(end 239.776 132.08)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9222,13 +9143,8 @@
 		(uuid edbf1317-1320-4630-86c8-eb48ef9189da)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 173.355 180.34)
-		(end 180.975 182.88)
-=======
 		(start 202.692 181.102)
 		(end 210.312 183.642)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9240,13 +9156,8 @@
 		(uuid f3da8081-089f-4570-98cb-4318c9e5391a)
 	)
 	(rectangle
-<<<<<<< HEAD
-		(start 195.961 190.119)
-		(end 203.581 192.659)
-=======
 		(start 225.298 190.881)
 		(end 232.918 193.421)
->>>>>>> de7aab6 (5S commit)
 		(stroke
 			(width 0)
 			(type dash)
@@ -9355,11 +9266,7 @@
 	)
 	(text "Global CLK"
 		(exclude_from_sim no)
-<<<<<<< HEAD
-		(at 228.346 130.937 0)
-=======
 		(at 257.683 131.699 0)
->>>>>>> de7aab6 (5S commit)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -9407,11 +9314,7 @@
 	)
 	(text "FPGA MachXO2\nLCMXO2-1200HC-4SG32I"
 		(exclude_from_sim no)
-<<<<<<< HEAD
-		(at 162.433 125.857 0)
-=======
 		(at 191.77 126.619 0)
->>>>>>> de7aab6 (5S commit)
 		(effects
 			(font
 				(size 3 3)
@@ -9520,11 +9423,7 @@
 	)
 	(text "JTAG"
 		(exclude_from_sim no)
-<<<<<<< HEAD
-		(at 211.201 130.937 0)
-=======
 		(at 240.538 131.699 0)
->>>>>>> de7aab6 (5S commit)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -9675,11 +9574,7 @@
 	)
 	(text "シングルエンドCLKは必ずT側に接続"
 		(exclude_from_sim no)
-<<<<<<< HEAD
-		(at 217.17 135.255 0)
-=======
 		(at 246.507 136.017 0)
->>>>>>> de7aab6 (5S commit)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -9818,19 +9713,12 @@
 		(uuid "00f841f3-8b58-4815-8310-fcb4933f9391")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 187.706 148.844)
-=======
 		(at 217.043 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01732f92-ce67-4885-b752-c18c9ed189af")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 164.592 181.61)
-=======
 		(at 91.186 236.347)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9838,21 +9726,17 @@
 	)
 	(junction
 		(at 193.929 182.372)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0266db0e-fa0c-4041-a049-369c85294ba1")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 91.186 185.928)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "027a03d0-81a8-4b19-95d5-490faa64c9b9")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 304.165 254.381)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9871,11 +9755,7 @@
 		(uuid "08cf3259-bb70-46b5-bfbd-f7dda7e40c2b")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 213.487 148.844)
-=======
 		(at 242.824 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0930df96-ccc0-4c80-b8b3-1791d5163ace")
@@ -9893,21 +9773,13 @@
 		(uuid "0b48b91c-7e40-43ec-ad6e-5cba3c2ed2c5")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 232.029 148.844)
-=======
 		(at 261.366 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c1590d7-f9e0-4da4-83eb-e2a90d29cbfe")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 119.761 170.688)
-=======
 		(at 147.32 170.688)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0db1cf0e-d4f7-4d9f-aada-674431967ec3")
@@ -9967,11 +9839,7 @@
 		(uuid "178aa9ae-6910-4b7d-bf47-9df80fe593b2")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 210.82 189.23)
-=======
 		(at 240.157 189.992)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1797aa71-ecec-4014-aef4-7be6d87c6793")
@@ -9989,21 +9857,13 @@
 		(uuid "183cf0cd-1940-4bcb-8115-cc54a9170c45")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 219.583 157.226)
-=======
 		(at 248.92 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a5a4741-19a8-4992-aa62-a492b7ec54d1")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 215.011 184.15)
-=======
 		(at 244.348 184.912)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a5fcaf1-7664-469f-91c7-bff57d71fe64")
@@ -10027,11 +9887,7 @@
 		(uuid "1bff5610-97de-4abf-a979-5c3febe8a518")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 196.596 148.844)
-=======
 		(at 225.933 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c5a49ef-f2b4-4e9d-a912-7b48135305d0")
@@ -10061,31 +9917,19 @@
 		(uuid "1f0c8c9d-da77-4031-8809-a3682015dc0e")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 119.761 141.478)
-=======
 		(at 147.32 141.478)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fa1cda7-795f-41f6-8bb8-bffb1eff7454")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 177.038 148.844)
-=======
 		(at 206.375 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20d9fe64-23c4-49e9-9e13-0e733d1c18ea")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 113.919 254.127)
-=======
 		(at 141.605 254.127)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20ee1abb-e58b-4475-b1a7-3120e249d472")
@@ -10103,11 +9947,7 @@
 		(uuid "21c737f7-a76c-4add-82ea-985ac4efe368")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 91.694 213.741)
-=======
 		(at 119.38 213.741)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2301c0c8-2a38-4564-a500-408fa1ba667e")
@@ -10131,15 +9971,12 @@
 		(uuid "2cc76c6a-0b3d-4884-b022-83037b84c07f")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 91.059 274.447)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cfd2851-0591-4876-bb4e-4aab2f74ca5b")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 433.07 45.974)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10158,11 +9995,7 @@
 		(uuid "2ef1ac46-1ed7-47cf-a07a-4419e6325542")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 207.264 157.226)
-=======
 		(at 236.601 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33f3d38e-e392-4209-85b7-5d5eb9b2ad3c")
@@ -10180,11 +10013,7 @@
 		(uuid "356c4735-810e-4b86-9033-096f1e6631a2")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 187.706 216.281)
-=======
 		(at 217.043 217.043)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35b53701-4e9a-44ca-81e1-0afb73f8baad")
@@ -10220,11 +10049,7 @@
 		(uuid "3fd37e7b-85c0-4023-8674-2b90577963fa")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 199.644 148.844)
-=======
 		(at 228.981 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "426bba32-1480-4faa-926b-7b837baf8152")
@@ -10248,11 +10073,7 @@
 		(uuid "4364c96a-ebdf-4a41-82c8-69f4dadf0fc8")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 161.417 165.1)
-=======
 		(at 190.754 165.862)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "436c7436-d19e-4845-b2c3-0957c506127f")
@@ -10288,9 +10109,6 @@
 		(uuid "47eed9b8-0304-425e-885c-8b8772d5f9dd")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 180.086 148.844)
-=======
 		(at 91.059 147.828)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10298,17 +10116,12 @@
 	)
 	(junction
 		(at 209.423 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "492e3933-88d3-4a70-b307-c1032d33d1a4")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 106.045 133.096)
-=======
 		(at 133.604 133.096)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4933248d-c16e-4ecc-b1b1-a18abc50237b")
@@ -10326,11 +10139,7 @@
 		(uuid "4e5bbdeb-0eb5-42db-b6be-61392204950d")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 221.869 165.1)
-=======
 		(at 251.206 165.862)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50901eaf-fb3e-4e0e-a82b-c812cb40d08b")
@@ -10342,11 +10151,7 @@
 		(uuid "5166e6b7-23eb-4859-b230-7585b06d89fd")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 98.679 213.741)
-=======
 		(at 126.365 213.741)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "527eb6f0-b719-4120-b639-d1c11ba56870")
@@ -10358,36 +10163,25 @@
 		(uuid "537761f4-1577-473c-b59f-2d2de99e0a73")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.789 236.347)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53a4bbf6-756d-49d8-a847-3105430e89c6")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 506.222 139.065)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5417fcb3-64c7-45c2-9bf5-087cd92981b9")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 91.821 125.222)
-=======
 		(at 119.38 125.222)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54c55237-3e1d-4e7b-b4e2-70ff76af6543")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 193.548 148.844)
-=======
 		(at 222.885 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "555bc9eb-e3f1-40d6-821c-6a6a03d1ea23")
@@ -10411,21 +10205,13 @@
 		(uuid "588dba75-e6c0-410e-a90a-8bb2e7356a02")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 225.806 157.226)
-=======
 		(at 255.143 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "593d8640-4bd8-4069-9b99-d8d7466d98a8")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 244.348 157.226)
-=======
 		(at 273.685 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59991f05-ad3b-4491-bfcd-963082e281dc")
@@ -10437,11 +10223,7 @@
 		(uuid "5a23f1d6-5f2f-46e6-82ee-7d08741318b6")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 238.252 157.226)
-=======
 		(at 267.589 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a2e9edd-f4d1-4de1-84cf-a6be425f1469")
@@ -10471,11 +10253,7 @@
 		(uuid "646da447-8a0e-4b8f-8d46-75ad0e4501f8")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 219.583 148.844)
-=======
 		(at 248.92 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64efd087-2576-4ef0-8a8e-eace0d56e1aa")
@@ -10535,11 +10313,7 @@
 		(uuid "6d945e38-6fc6-4630-8d2d-e76a304a8cc9")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 113.919 229.997)
-=======
 		(at 141.605 229.997)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6db43100-bdd3-46d7-b47b-53c9dd3cfcda")
@@ -10563,11 +10337,7 @@
 		(uuid "72e2a872-633d-46cb-aec2-ec3a8a1d16c4")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 238.252 148.844)
-=======
 		(at 267.589 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "733d05e7-13fe-48e7-b4eb-60fe84b0fd2f")
@@ -10603,11 +10373,7 @@
 		(uuid "7ad6c1f4-e7e2-48ce-ba98-0b9d50829e67")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 105.918 221.615)
-=======
 		(at 133.604 221.615)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bbc8f53-c055-4c65-93fc-7fafc6d781e0")
@@ -10655,11 +10421,7 @@
 		(uuid "824e9494-8a2c-453e-b884-a1460669ea73")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 213.487 157.226)
-=======
 		(at 242.824 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "829ff438-6bad-432c-a599-dd1d60fb4c4f")
@@ -10683,11 +10445,7 @@
 		(uuid "831c2327-c365-4ab4-8d1a-b1280acdd8a4")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 228.854 165.1)
-=======
 		(at 258.191 165.862)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "835b159e-feb2-417c-8884-3751945aa3b7")
@@ -10699,15 +10457,12 @@
 		(uuid "83dce395-1c0c-4554-b389-3c00b5f65a46")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.662 147.828)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84c32254-644a-4318-81fc-fc886c950c63")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 531.876 114.808)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10774,11 +10529,7 @@
 		(uuid "8db726c7-3dd2-448d-893d-28cfbff02f40")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 207.264 148.844)
-=======
 		(at 236.601 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e90c12d-ddd2-4db0-b6a2-30867a9cc958")
@@ -10826,15 +10577,12 @@
 		(uuid "91538bb3-a580-45aa-b256-1eb8036e2120")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.662 274.447)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9187ebd5-4b73-4286-a82f-a5ec85f0ada9")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 266.192 54.356)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10847,25 +10595,18 @@
 		(uuid "928ae759-ba6d-45c9-ba0f-659f2caeb5cc")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 225.806 148.844)
-=======
 		(at 255.143 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "928b78ed-e40a-4959-87b4-336fadae6bc3")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 91.186 243.967)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92b8dae9-3cb0-4631-a913-ca01371b3c02")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 62.865 236.347)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10878,11 +10619,7 @@
 		(uuid "94453fa4-9901-4210-b852-cb363a438214")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 232.029 157.226)
-=======
 		(at 261.366 157.988)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "966469a5-2e67-457a-a4a1-c8006b642544")
@@ -10894,11 +10631,7 @@
 		(uuid "97665625-f9df-4515-b2d7-03e99927bb57")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 119.634 259.207)
-=======
 		(at 147.32 259.207)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98eedef7-50ea-492c-9f00-7f834f0f22bb")
@@ -10910,11 +10643,7 @@
 		(uuid "98fe7d43-5547-439c-a837-a93398571076")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 107.95 160.528)
-=======
 		(at 135.509 160.528)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99830f47-29f6-4946-b695-6d741d769536")
@@ -10938,19 +10667,12 @@
 		(uuid "9c3dca4c-42c7-4456-9054-82f4ac49d79b")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 154.432 189.23)
-=======
 		(at 183.769 189.992)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ce1f7b4-863d-48c4-8654-816a3b5a2991")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 107.823 249.047)
-=======
 		(at 91.059 155.448)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10958,7 +10680,6 @@
 	)
 	(junction
 		(at 135.509 249.047)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9eeea771-8f2c-4a75-8e2d-f915966f03bc")
@@ -11018,15 +10739,12 @@
 		(uuid "a5cc8b57-6b3c-4c24-ab3c-984c11b9a3ac")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 91.059 282.067)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a70da7ca-ed79-419c-89a3-1cf0462ba09a")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 379.095 192.405)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11057,11 +10775,7 @@
 		(uuid "aa99fb7c-9530-469e-865b-dc0597831c6a")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 221.869 191.77)
-=======
 		(at 251.206 192.532)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab38b81b-035b-41f4-9776-601cf5ccd534")
@@ -11121,11 +10835,7 @@
 		(uuid "b636b869-ce93-4a07-a4c0-6b9a6f4ead99")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 161.417 201.93)
-=======
 		(at 190.754 202.692)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7ac30c8-1f10-4397-b53d-528e70d08e78")
@@ -11137,25 +10847,18 @@
 		(uuid "b8c55132-7f34-4609-bebf-30968673da97")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 119.634 229.997)
-=======
 		(at 147.32 229.997)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9f62b80-1103-4c1d-9335-a2bd7b401c3a")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.789 243.967)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "baf51f9d-1286-47c1-ae4c-a3b55f72826e")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 150.622 385.826)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11168,11 +10871,7 @@
 		(uuid "bc916070-44b9-4022-9e37-1e5ba0bf7054")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 244.348 148.844)
-=======
 		(at 273.685 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bdccb6f2-8df4-49cc-af3c-2eda2ce6a96d")
@@ -11292,8 +10991,6 @@
 		(uuid "d107e7fb-f266-47f4-9d9d-9de68164bc01")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.789 185.928)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11306,7 +11003,6 @@
 		(uuid "d2c6e899-b5a6-49cb-8622-2761cb5be956")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 59.817 375.285)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11319,15 +11015,12 @@
 		(uuid "d6be12ab-dffc-4fbd-acb9-1fea03d55c16")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.662 155.448)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d846715e-8096-46d2-9164-7e69a65b909d")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 46.228 147.828)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11346,11 +11039,7 @@
 		(uuid "db05d050-398d-4920-bc66-1fb9c17513dd")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 235.839 165.1)
-=======
 		(at 265.176 165.862)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db19f807-ac44-460f-8a33-355e0bafdef3")
@@ -11368,15 +11057,12 @@
 		(uuid "db7a83fd-308c-400a-bb9b-87e2a1ec012c")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.662 282.067)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc1ed59c-cae6-438d-b739-0d7748acfe02")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 272.669 283.083)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11425,11 +11111,7 @@
 		(uuid "e2c175dd-44b5-4e73-bc4e-9b45e00c8e1c")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 114.046 141.478)
-=======
 		(at 141.605 141.478)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5aa2b6a-30dd-40ef-9057-822d496fc272")
@@ -11489,11 +11171,7 @@
 		(uuid "f25cebb9-5351-4d9a-8eb8-9d1ec6c98661")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 184.912 216.281)
-=======
 		(at 214.249 217.043)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f43184a4-598d-44b4-992b-ed278f55bdcc")
@@ -11505,15 +11183,12 @@
 		(uuid "f478e4f8-4683-48df-b157-883ee87eada6")
 	)
 	(junction
-<<<<<<< HEAD
-=======
 		(at 89.789 193.548)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f73c5104-e53e-4f7f-a4a3-81efbef3393c")
 	)
 	(junction
->>>>>>> de7aab6 (5S commit)
 		(at 334.772 262.255)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11532,11 +11207,7 @@
 		(uuid "fb89afbf-3254-46bd-ba44-406a94c647da")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 98.806 125.222)
-=======
 		(at 126.365 125.222)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc2491b8-36cd-4ac8-914b-b88909a7e6af")
@@ -11548,31 +11219,19 @@
 		(uuid "fc6cf031-37ea-497e-88ef-6c0c95f4413e")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 190.754 148.844)
-=======
 		(at 220.091 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc9aba04-3060-4883-872f-be24e6d6f5b2")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 114.046 165.608)
-=======
 		(at 141.605 165.608)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd19c2ce-bbd0-48bd-90fe-f423e4b34c34")
 	)
 	(junction
-<<<<<<< HEAD
-		(at 184.912 148.844)
-=======
 		(at 214.249 149.606)
->>>>>>> de7aab6 (5S commit)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd62123c-3119-455b-9802-104ff214bcda")
@@ -11622,11 +11281,7 @@
 		(uuid "215d9933-0f97-4a7e-af35-84e6f5651265")
 	)
 	(no_connect
-<<<<<<< HEAD
-		(at 208.788 194.31)
-=======
 		(at 238.125 195.072)
->>>>>>> de7aab6 (5S commit)
 		(uuid "27ec17c5-e1a2-46cc-ab64-4217b41c3ef7")
 	)
 	(no_connect
@@ -11690,11 +11345,7 @@
 		(uuid "815b30a8-f851-4517-aabd-f7e021accb23")
 	)
 	(no_connect
-<<<<<<< HEAD
-		(at 208.788 196.85)
-=======
 		(at 238.125 197.612)
->>>>>>> de7aab6 (5S commit)
 		(uuid "8564c3b5-d1e4-4d97-a34e-f16b65193830")
 	)
 	(no_connect
@@ -11750,11 +11401,7 @@
 		(uuid "b9adba8d-6032-4256-a41f-372258809c0a")
 	)
 	(no_connect
-<<<<<<< HEAD
-		(at 168.148 184.15)
-=======
 		(at 197.485 184.912)
->>>>>>> de7aab6 (5S commit)
 		(uuid "bf907b35-b770-4b63-8f4f-7a5ba4b6caad")
 	)
 	(no_connect
@@ -11813,11 +11460,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.061 160.528) (xy 107.95 160.528)
-=======
 			(xy 134.62 160.528) (xy 135.509 160.528)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -11857,11 +11500,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.934 243.967) (xy 122.428 243.967)
-=======
 			(xy 134.62 243.967) (xy 150.114 243.967)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -11871,11 +11510,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.061 155.448) (xy 122.555 155.448)
-=======
 			(xy 134.62 155.448) (xy 150.114 155.448)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -11905,8 +11540,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 193.548) (xy 91.186 197.739)
 		)
 		(stroke
@@ -11917,7 +11550,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 371.475 177.165) (xy 425.323 177.165)
 		)
 		(stroke
@@ -11998,11 +11630,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 238.252 148.844) (xy 238.252 149.86)
-=======
 			(xy 267.589 149.606) (xy 267.589 150.622)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12012,11 +11640,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 244.348 154.94) (xy 244.348 157.226)
-=======
 			(xy 273.685 155.702) (xy 273.685 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12106,11 +11730,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.061 170.688) (xy 119.761 170.688)
-=======
 			(xy 134.62 170.688) (xy 147.32 170.688)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12120,11 +11740,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.257 201.93) (xy 161.417 201.93)
-=======
 			(xy 180.594 202.692) (xy 190.754 202.692)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12234,11 +11850,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.806 133.096) (xy 106.045 133.096)
-=======
 			(xy 126.365 133.096) (xy 133.604 133.096)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12258,11 +11870,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 215.011 165.1) (xy 221.869 165.1)
-=======
 			(xy 244.348 165.862) (xy 251.206 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12292,11 +11900,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.95 141.478) (xy 114.046 141.478)
-=======
 			(xy 135.509 141.478) (xy 141.605 141.478)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12326,8 +11930,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.473 270.002) (xy 101.473 268.859)
 		)
 		(stroke
@@ -12338,7 +11940,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 306.705 275.463) (xy 306.705 254.381)
 		)
 		(stroke
@@ -12349,11 +11950,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 250.571 154.813) (xy 250.571 157.226)
-=======
 			(xy 279.908 155.575) (xy 279.908 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12413,11 +12010,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 232.029 148.844) (xy 225.806 148.844)
-=======
 			(xy 261.366 149.606) (xy 255.143 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12437,11 +12030,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.694 212.598) (xy 91.694 213.741)
-=======
 			(xy 119.38 212.598) (xy 119.38 213.741)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12471,11 +12060,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.061 165.608) (xy 114.046 165.608)
-=======
 			(xy 134.62 165.608) (xy 141.605 165.608)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12485,11 +12070,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.257 189.23) (xy 154.432 189.23)
-=======
 			(xy 180.594 189.992) (xy 183.769 189.992)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12609,11 +12190,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.865 155.448) (xy 76.581 155.448)
-=======
 			(xy 62.865 155.448) (xy 78.867 155.448)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12643,8 +12220,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 155.448) (xy 91.059 159.639)
 		)
 		(stroke
@@ -12665,7 +12240,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 40.513 282.067) (xy 46.101 282.067)
 		)
 		(stroke
@@ -12826,11 +12400,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 232.029 155.067) (xy 232.029 157.226)
-=======
 			(xy 261.366 155.829) (xy 261.366 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12870,8 +12440,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 155.448) (xy 91.059 155.448)
 		)
 		(stroke
@@ -12882,7 +12450,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 337.185 290.703) (xy 382.016 290.703)
 		)
 		(stroke
@@ -12913,11 +12480,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 221.869 191.77) (xy 243.713 191.77)
-=======
 			(xy 251.206 192.532) (xy 273.05 192.532)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12957,11 +12520,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 189.23) (xy 210.82 189.23)
-=======
 			(xy 238.125 189.992) (xy 240.157 189.992)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -12991,8 +12550,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 185.928) (xy 89.789 187.579)
 		)
 		(stroke
@@ -13003,7 +12560,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 62.865 268.986) (xy 65.405 268.986)
 		)
 		(stroke
@@ -13014,11 +12570,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.934 259.207) (xy 119.634 259.207)
-=======
 			(xy 134.62 259.207) (xy 147.32 259.207)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13048,11 +12600,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.823 232.029) (xy 107.823 229.997)
-=======
 			(xy 135.509 232.029) (xy 135.509 229.997)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13092,11 +12640,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.865 274.447) (xy 76.454 274.447)
-=======
 			(xy 62.865 274.447) (xy 78.867 274.447)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13116,11 +12660,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 225.806 155.067) (xy 225.806 157.226)
-=======
 			(xy 255.143 155.829) (xy 255.143 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13140,11 +12680,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 105.918 221.615) (xy 105.918 222.377)
-=======
 			(xy 133.604 221.615) (xy 133.604 222.377)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13204,11 +12740,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 235.839 166.624) (xy 235.839 165.1)
-=======
 			(xy 265.176 167.386) (xy 265.176 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13248,8 +12780,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 286.258) (xy 93.726 286.258)
 		)
 		(stroke
@@ -13260,7 +12790,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 374.65 315.214) (xy 374.65 317.754)
 		)
 		(stroke
@@ -13281,11 +12810,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.761 140.716) (xy 119.761 141.478)
-=======
 			(xy 147.32 140.716) (xy 147.32 141.478)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13295,11 +12820,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 225.806 148.844) (xy 225.806 149.987)
-=======
 			(xy 255.143 149.606) (xy 255.143 150.749)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13379,11 +12900,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.045 125.222) (xy 106.045 126.619)
-=======
 			(xy 133.604 125.222) (xy 133.604 126.619)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13393,8 +12910,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 243.967) (xy 104.14 243.967)
 		)
 		(stroke
@@ -13405,7 +12920,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 430.53 107.188) (xy 438.15 107.188)
 		)
 		(stroke
@@ -13426,11 +12940,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.95 143.51) (xy 107.95 141.478)
-=======
 			(xy 135.509 143.51) (xy 135.509 141.478)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13470,8 +12980,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 282.067) (xy 104.14 282.067)
 		)
 		(stroke
@@ -13482,7 +12990,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 147.32 399.288) (xy 147.32 400.05)
 		)
 		(stroke
@@ -13553,8 +13060,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 98.679 268.859) (xy 101.473 268.859)
 		)
 		(stroke
@@ -13565,7 +13070,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 370.078 149.225) (xy 378.46 149.225)
 		)
 		(stroke
@@ -13616,11 +13120,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 221.869 166.751) (xy 221.869 165.1)
-=======
 			(xy 251.206 167.513) (xy 251.206 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13650,11 +13150,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 184.912 216.281) (xy 184.912 217.043)
-=======
 			(xy 214.249 217.043) (xy 214.249 217.805)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13664,9 +13160,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 244.348 157.226) (xy 238.252 157.226)
-=======
 			(xy 91.186 197.739) (xy 93.853 197.739)
 		)
 		(stroke
@@ -13678,7 +13171,6 @@
 	(wire
 		(pts
 			(xy 273.685 157.988) (xy 267.589 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13698,11 +13190,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.806 125.222) (xy 98.806 126.746)
-=======
 			(xy 126.365 125.222) (xy 126.365 126.746)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13762,11 +13250,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 210.82 210.312) (xy 210.82 211.455)
-=======
 			(xy 240.157 211.074) (xy 240.157 212.217)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13826,11 +13310,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 114.046 151.003) (xy 114.046 165.608)
-=======
 			(xy 141.605 151.003) (xy 141.605 165.608)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -13850,8 +13330,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.6 159.639) (xy 101.6 160.655)
 		)
 		(stroke
@@ -13862,7 +13340,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 154.305 341.757) (xy 162.433 341.757)
 		)
 		(stroke
@@ -13953,8 +13430,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 86.487 147.828) (xy 89.662 147.828)
 		)
 		(stroke
@@ -13965,7 +13440,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 73.279 232.029) (xy 73.279 230.886)
 		)
 		(stroke
@@ -14046,8 +13520,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 268.859) (xy 91.059 274.447)
 		)
 		(stroke
@@ -14058,7 +13530,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 536.067 30.48) (xy 536.067 31.242)
 		)
 		(stroke
@@ -14129,11 +13600,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.679 221.615) (xy 105.918 221.615)
-=======
 			(xy 126.365 221.615) (xy 133.604 221.615)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14143,11 +13610,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.806 125.222) (xy 106.045 125.222)
-=======
 			(xy 126.365 125.222) (xy 133.604 125.222)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14187,8 +13650,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.727 197.739) (xy 101.727 198.755)
 		)
 		(stroke
@@ -14199,7 +13660,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 525.272 114.808) (xy 525.272 113.538)
 		)
 		(stroke
@@ -14230,8 +13690,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 193.548) (xy 91.186 193.548)
 		)
 		(stroke
@@ -14242,7 +13700,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 423.164 107.188) (xy 430.53 107.188)
 		)
 		(stroke
@@ -14313,11 +13770,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 184.912 216.281) (xy 187.706 216.281)
-=======
 			(xy 214.249 217.043) (xy 217.043 217.043)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14327,9 +13780,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 250.571 149.733) (xy 250.571 148.844)
-=======
 			(xy 91.059 268.859) (xy 93.599 268.859)
 		)
 		(stroke
@@ -14341,7 +13791,6 @@
 	(wire
 		(pts
 			(xy 279.908 150.495) (xy 279.908 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14351,11 +13800,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.679 220.345) (xy 98.679 221.615)
-=======
 			(xy 126.365 220.345) (xy 126.365 221.615)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14365,11 +13810,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 105.918 213.741) (xy 105.918 215.138)
-=======
 			(xy 133.604 213.741) (xy 133.604 215.138)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14409,8 +13850,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 147.828) (xy 89.662 149.479)
 		)
 		(stroke
@@ -14421,7 +13860,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 237.617 95.25) (xy 244.094 95.25)
 		)
 		(stroke
@@ -14522,8 +13960,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 243.967) (xy 89.789 243.078)
 		)
 		(stroke
@@ -14544,7 +13980,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 179.705 43.815) (xy 179.705 45.847)
 		)
 		(stroke
@@ -14565,11 +14000,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 164.592 181.61) (xy 168.148 181.61)
-=======
 			(xy 193.929 182.372) (xy 197.485 182.372)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14589,8 +14020,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 98.806 159.639) (xy 101.6 159.639)
 		)
 		(stroke
@@ -14601,7 +14030,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 18.161 94.869) (xy 19.431 94.869)
 		)
 		(stroke
@@ -14652,11 +14080,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 221.869 174.371) (xy 221.869 191.77)
-=======
 			(xy 251.206 175.133) (xy 251.206 192.532)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14666,8 +14090,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 274.447) (xy 89.662 276.098)
 		)
 		(stroke
@@ -14678,7 +14100,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 61.087 274.447) (xy 61.087 275.971)
 		)
 		(stroke
@@ -14789,11 +14210,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 235.839 165.1) (xy 228.854 165.1)
-=======
 			(xy 265.176 165.862) (xy 258.191 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14803,11 +14220,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.992 185.928) (xy 76.581 185.928)
-=======
 			(xy 62.992 185.928) (xy 78.994 185.928)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14847,11 +14260,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 179.07) (xy 243.713 179.07)
-=======
 			(xy 238.125 179.832) (xy 273.05 179.832)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -14861,8 +14270,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 93.853 248.158) (xy 91.186 248.158)
 		)
 		(stroke
@@ -14873,7 +14280,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 536.067 48.387) (xy 539.496 48.387)
 		)
 		(stroke
@@ -14894,11 +14300,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 213.487 148.844) (xy 207.264 148.844)
-=======
 			(xy 242.824 149.606) (xy 236.601 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15078,8 +14480,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 236.347) (xy 91.186 236.347)
 		)
 		(stroke
@@ -15090,7 +14490,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 257.302 75.184) (xy 266.192 75.184)
 		)
 		(stroke
@@ -15151,11 +14550,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.694 213.741) (xy 98.679 213.741)
-=======
 			(xy 119.38 213.741) (xy 126.365 213.741)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15165,8 +14560,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.6 231.902) (xy 101.6 230.759)
 		)
 		(stroke
@@ -15187,7 +14580,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 73.279 248.031) (xy 73.279 249.047)
 		)
 		(stroke
@@ -15208,9 +14600,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.761 170.688) (xy 122.555 170.688)
-=======
 			(xy 86.487 282.067) (xy 89.662 282.067)
 		)
 		(stroke
@@ -15222,7 +14611,6 @@
 	(wire
 		(pts
 			(xy 147.32 170.688) (xy 150.114 170.688)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15232,8 +14620,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 230.759) (xy 93.726 230.759)
 		)
 		(stroke
@@ -15244,7 +14630,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 494.665 48.387) (xy 497.459 48.387)
 		)
 		(stroke
@@ -15255,11 +14640,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 187.706 148.844) (xy 187.706 156.21)
-=======
 			(xy 217.043 149.606) (xy 217.043 156.972)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15319,11 +14700,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 207.264 148.844) (xy 199.644 148.844)
-=======
 			(xy 236.601 149.606) (xy 228.981 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15333,11 +14710,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.679 213.741) (xy 105.918 213.741)
-=======
 			(xy 126.365 213.741) (xy 133.604 213.741)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15417,11 +14790,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 113.919 229.997) (xy 113.919 231.902)
-=======
 			(xy 141.605 229.997) (xy 141.605 231.902)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15461,8 +14830,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 86.614 193.548) (xy 89.789 193.548)
 		)
 		(stroke
@@ -15473,7 +14840,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 257.302 104.14) (xy 257.302 105.41)
 		)
 		(stroke
@@ -15544,11 +14910,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 113.919 229.997) (xy 119.634 229.997)
-=======
 			(xy 141.605 229.997) (xy 147.32 229.997)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15578,8 +14940,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 180.34) (xy 93.726 180.34)
 		)
 		(stroke
@@ -15590,7 +14950,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 73.279 286.131) (xy 73.279 287.147)
 		)
 		(stroke
@@ -15631,8 +14990,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 155.448) (xy 104.14 155.448)
 		)
 		(stroke
@@ -15643,7 +15000,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 62.738 248.031) (xy 65.405 248.031)
 		)
 		(stroke
@@ -15654,11 +15010,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 225.806 148.844) (xy 219.583 148.844)
-=======
 			(xy 255.143 149.606) (xy 248.92 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15678,11 +15030,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.634 239.522) (xy 119.634 259.207)
-=======
 			(xy 147.32 239.522) (xy 147.32 259.207)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15772,11 +15120,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 154.432 189.23) (xy 168.148 189.23)
-=======
 			(xy 183.769 189.992) (xy 197.485 189.992)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15796,9 +15140,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 213.487 155.194) (xy 213.487 157.226)
-=======
 			(xy 91.059 147.828) (xy 104.14 147.828)
 		)
 		(stroke
@@ -15810,7 +15151,6 @@
 	(wire
 		(pts
 			(xy 242.824 155.956) (xy 242.824 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15820,11 +15160,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 114.046 141.478) (xy 114.046 143.383)
-=======
 			(xy 141.605 141.478) (xy 141.605 143.383)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -15914,8 +15250,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 243.967) (xy 91.186 243.967)
 		)
 		(stroke
@@ -15926,7 +15260,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 46.101 265.684) (xy 46.101 264.922)
 		)
 		(stroke
@@ -16017,11 +15350,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 207.264 155.321) (xy 207.264 157.226)
-=======
 			(xy 236.601 156.083) (xy 236.601 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16071,11 +15400,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 207.264 148.844) (xy 207.264 150.241)
-=======
 			(xy 236.601 149.606) (xy 236.601 151.003)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16135,11 +15460,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 215.011 174.498) (xy 215.011 184.15)
-=======
 			(xy 244.348 175.26) (xy 244.348 184.912)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16179,11 +15500,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 154.432 165.989) (xy 154.432 165.1)
-=======
 			(xy 183.769 166.751) (xy 183.769 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16193,9 +15510,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 184.912 156.21) (xy 184.912 148.844)
-=======
 			(xy 86.614 236.347) (xy 89.789 236.347)
 		)
 		(stroke
@@ -16207,7 +15521,6 @@
 	(wire
 		(pts
 			(xy 214.249 156.972) (xy 214.249 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16277,11 +15590,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 196.596 148.844) (xy 193.548 148.844)
-=======
 			(xy 225.933 149.606) (xy 222.885 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16301,11 +15610,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 232.029 157.226) (xy 225.806 157.226)
-=======
 			(xy 261.366 157.988) (xy 255.143 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16365,11 +15670,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.823 229.997) (xy 113.919 229.997)
-=======
 			(xy 135.509 229.997) (xy 141.605 229.997)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16419,8 +15720,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 230.759) (xy 91.186 236.347)
 		)
 		(stroke
@@ -16431,7 +15730,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 506.222 130.429) (xy 506.222 139.065)
 		)
 		(stroke
@@ -16472,9 +15770,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 250.571 157.226) (xy 244.348 157.226)
-=======
 			(xy 86.614 243.967) (xy 89.789 243.967)
 		)
 		(stroke
@@ -16486,7 +15781,6 @@
 	(wire
 		(pts
 			(xy 279.908 157.988) (xy 273.685 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16586,11 +15880,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 213.487 157.226) (xy 207.264 157.226)
-=======
 			(xy 242.824 157.988) (xy 236.601 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16670,11 +15960,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 184.912 214.63) (xy 184.912 216.281)
-=======
 			(xy 214.249 215.392) (xy 214.249 217.043)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16694,11 +15980,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 181.61) (xy 243.713 181.61)
-=======
 			(xy 238.125 182.372) (xy 273.05 182.372)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16818,8 +16100,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 282.067) (xy 91.059 286.258)
 		)
 		(stroke
@@ -16830,7 +16110,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 46.101 273.304) (xy 46.101 274.447)
 		)
 		(stroke
@@ -16901,11 +16180,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 180.086 148.844) (xy 184.912 148.844)
-=======
 			(xy 209.423 149.606) (xy 214.249 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16935,11 +16210,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.934 254.127) (xy 113.919 254.127)
-=======
 			(xy 134.62 254.127) (xy 141.605 254.127)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -16969,8 +16240,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 282.067) (xy 91.059 282.067)
 		)
 		(stroke
@@ -16981,7 +16250,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 411.48 61.214) (xy 411.48 62.738)
 		)
 		(stroke
@@ -17032,11 +16300,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 161.417 201.93) (xy 168.148 201.93)
-=======
 			(xy 190.754 202.692) (xy 197.485 202.692)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17096,11 +16360,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.384 181.61) (xy 164.592 181.61)
-=======
 			(xy 180.721 182.372) (xy 193.929 182.372)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17130,8 +16390,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 98.679 142.24) (xy 101.473 142.24)
 		)
 		(stroke
@@ -17142,7 +16400,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 454.025 67.183) (xy 454.025 64.643)
 		)
 		(stroke
@@ -17173,8 +16430,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.6 181.483) (xy 101.6 180.34)
 		)
 		(stroke
@@ -17185,7 +16440,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 173.863 43.815) (xy 173.863 45.847)
 		)
 		(stroke
@@ -17226,8 +16480,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 155.448) (xy 89.662 154.559)
 		)
 		(stroke
@@ -17238,7 +16490,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 110.617 39.497) (xy 115.697 39.497)
 		)
 		(stroke
@@ -17309,11 +16560,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 238.252 154.94) (xy 238.252 157.226)
-=======
 			(xy 267.589 155.702) (xy 267.589 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17363,8 +16610,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 193.548) (xy 89.789 192.659)
 		)
 		(stroke
@@ -17375,7 +16620,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 436.499 45.974) (xy 447.675 45.974)
 		)
 		(stroke
@@ -17406,11 +16650,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.821 125.222) (xy 91.821 138.938)
-=======
 			(xy 119.38 125.222) (xy 119.38 138.938)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17440,11 +16680,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 210.82 189.23) (xy 243.713 189.23)
-=======
 			(xy 240.157 189.992) (xy 273.05 189.992)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17534,11 +16770,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 191.77) (xy 221.869 191.77)
-=======
 			(xy 238.125 192.532) (xy 251.206 192.532)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17598,11 +16830,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 244.348 148.844) (xy 244.348 149.86)
-=======
 			(xy 273.685 149.606) (xy 273.685 150.622)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17642,11 +16870,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 228.854 165.1) (xy 228.854 166.624)
-=======
 			(xy 258.191 165.862) (xy 258.191 167.386)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17726,8 +16950,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 274.447) (xy 104.14 274.447)
 		)
 		(stroke
@@ -17738,7 +16960,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 531.876 108.585) (xy 531.876 107.188)
 		)
 		(stroke
@@ -17809,8 +17030,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 243.967) (xy 91.186 248.158)
 		)
 		(stroke
@@ -17821,7 +17040,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 489.123 189.865) (xy 501.604 189.865)
 		)
 		(stroke
@@ -17842,11 +17060,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 228.854 174.244) (xy 228.854 199.39)
-=======
 			(xy 258.191 175.006) (xy 258.191 200.152)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17956,11 +17170,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 105.918 220.218) (xy 105.918 221.615)
-=======
 			(xy 133.604 220.218) (xy 133.604 221.615)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -17990,8 +17200,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 98.806 180.34) (xy 101.6 180.34)
 		)
 		(stroke
@@ -18002,7 +17210,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 46.228 146.685) (xy 46.228 147.828)
 		)
 		(stroke
@@ -18023,11 +17230,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 161.417 164.465) (xy 161.417 165.1)
-=======
 			(xy 190.754 165.227) (xy 190.754 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18047,11 +17250,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.821 124.079) (xy 91.821 125.222)
-=======
 			(xy 119.38 124.079) (xy 119.38 125.222)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18061,8 +17260,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 142.24) (xy 91.059 147.828)
 		)
 		(stroke
@@ -18073,7 +17270,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 110.617 39.497) (xy 110.617 35.687)
 		)
 		(stroke
@@ -18094,11 +17290,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.384 186.69) (xy 168.148 186.69)
-=======
 			(xy 180.721 187.452) (xy 197.485 187.452)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18148,11 +17340,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 190.754 156.21) (xy 190.754 148.844)
-=======
 			(xy 220.091 156.972) (xy 220.091 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18202,8 +17390,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 86.614 185.928) (xy 89.789 185.928)
 		)
 		(stroke
@@ -18214,7 +17400,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 423.164 113.792) (xy 423.164 114.935)
 		)
 		(stroke
@@ -18295,11 +17480,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.384 179.07) (xy 168.148 179.07)
-=======
 			(xy 180.721 179.832) (xy 197.485 179.832)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18549,8 +17730,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.059 142.24) (xy 93.599 142.24)
 		)
 		(stroke
@@ -18561,7 +17740,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 257.302 75.184) (xy 257.302 78.994)
 		)
 		(stroke
@@ -18572,11 +17750,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.634 229.235) (xy 119.634 229.997)
-=======
 			(xy 147.32 229.235) (xy 147.32 229.997)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18596,11 +17770,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.761 151.003) (xy 119.761 170.688)
-=======
 			(xy 147.32 151.003) (xy 147.32 170.688)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18720,9 +17890,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 180.086 156.21) (xy 180.086 148.844)
-=======
 			(xy 98.933 248.158) (xy 101.727 248.158)
 		)
 		(stroke
@@ -18734,7 +17901,6 @@
 	(wire
 		(pts
 			(xy 209.423 156.972) (xy 209.423 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18894,11 +18060,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 164.592 211.582) (xy 164.592 213.614)
-=======
 			(xy 193.929 212.344) (xy 193.929 214.376)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18958,11 +18120,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.257 194.31) (xy 168.148 194.31)
-=======
 			(xy 180.594 195.072) (xy 197.485 195.072)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -18972,11 +18130,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 196.596 156.21) (xy 196.596 148.844)
-=======
 			(xy 225.933 156.972) (xy 225.933 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19006,9 +18160,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 187.706 214.63) (xy 187.706 216.281)
-=======
 			(xy 91.186 180.34) (xy 91.186 185.928)
 		)
 		(stroke
@@ -19020,7 +18171,6 @@
 	(wire
 		(pts
 			(xy 217.043 215.392) (xy 217.043 217.043)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19050,11 +18200,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.634 259.207) (xy 122.428 259.207)
-=======
 			(xy 147.32 259.207) (xy 150.114 259.207)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19084,11 +18230,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 154.432 165.1) (xy 161.417 165.1)
-=======
 			(xy 183.769 165.862) (xy 190.754 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19128,11 +18270,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 187.706 216.281) (xy 190.754 216.281)
-=======
 			(xy 217.043 217.043) (xy 220.091 217.043)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19142,11 +18280,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 213.487 148.844) (xy 213.487 150.114)
-=======
 			(xy 242.824 149.606) (xy 242.824 150.876)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19156,11 +18290,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 238.252 157.226) (xy 232.029 157.226)
-=======
 			(xy 267.589 157.988) (xy 261.366 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19230,11 +18360,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.694 288.417) (xy 91.694 290.068)
-=======
 			(xy 119.38 288.417) (xy 119.38 290.068)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19264,11 +18390,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 207.264 157.226) (xy 207.264 158.242)
-=======
 			(xy 236.601 157.988) (xy 236.601 159.004)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19278,11 +18400,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 190.754 214.63) (xy 190.754 216.281)
-=======
 			(xy 220.091 215.392) (xy 220.091 217.043)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19432,11 +18550,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.761 141.478) (xy 119.761 143.383)
-=======
 			(xy 147.32 141.478) (xy 147.32 143.383)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19526,8 +18640,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 236.347) (xy 89.789 237.998)
 		)
 		(stroke
@@ -19538,7 +18650,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 244.094 63.119) (xy 244.094 64.389)
 		)
 		(stroke
@@ -19579,11 +18690,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 235.839 164.211) (xy 235.839 165.1)
-=======
 			(xy 265.176 164.973) (xy 265.176 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19593,11 +18700,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.738 282.067) (xy 76.454 282.067)
-=======
 			(xy 62.738 282.067) (xy 78.867 282.067)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19737,8 +18840,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 282.067) (xy 89.662 281.178)
 		)
 		(stroke
@@ -19749,7 +18850,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 273.05 329.946) (xy 273.05 331.597)
 		)
 		(stroke
@@ -19790,11 +18890,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 168.148 199.39) (xy 151.257 199.39)
-=======
 			(xy 197.485 200.152) (xy 180.594 200.152)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19814,11 +18910,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.821 125.222) (xy 98.806 125.222)
-=======
 			(xy 119.38 125.222) (xy 126.365 125.222)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19918,11 +19010,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.865 236.347) (xy 76.454 236.347)
-=======
 			(xy 62.865 236.347) (xy 78.994 236.347)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19942,11 +19030,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 215.011 184.15) (xy 243.713 184.15)
-=======
 			(xy 244.348 184.912) (xy 273.05 184.912)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19966,11 +19050,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.738 243.967) (xy 76.454 243.967)
-=======
 			(xy 62.738 243.967) (xy 78.994 243.967)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -19990,11 +19070,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 114.046 165.608) (xy 122.555 165.608)
-=======
 			(xy 141.605 165.608) (xy 150.114 165.608)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20014,11 +19090,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.045 131.699) (xy 106.045 133.096)
-=======
 			(xy 133.604 131.699) (xy 133.604 133.096)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20028,11 +19100,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 219.583 155.194) (xy 219.583 157.226)
-=======
 			(xy 248.92 155.956) (xy 248.92 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20062,11 +19130,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 215.011 166.878) (xy 215.011 165.1)
-=======
 			(xy 244.348 167.64) (xy 244.348 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20116,11 +19180,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 113.919 254.127) (xy 122.428 254.127)
-=======
 			(xy 141.605 254.127) (xy 150.114 254.127)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20170,11 +19230,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 164.592 203.962) (xy 164.592 181.61)
-=======
 			(xy 193.929 204.724) (xy 193.929 182.372)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20184,11 +19240,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 184.15) (xy 215.011 184.15)
-=======
 			(xy 238.125 184.912) (xy 244.348 184.912)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20248,9 +19300,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.694 213.741) (xy 91.694 227.457)
-=======
 			(xy 98.933 197.739) (xy 101.727 197.739)
 		)
 		(stroke
@@ -20262,7 +19311,6 @@
 	(wire
 		(pts
 			(xy 119.38 213.741) (xy 119.38 227.457)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20372,11 +19420,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 219.583 148.844) (xy 219.583 150.114)
-=======
 			(xy 248.92 149.606) (xy 248.92 150.876)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20456,8 +19500,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 86.487 155.448) (xy 89.662 155.448)
 		)
 		(stroke
@@ -20468,7 +19510,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 489.123 179.705) (xy 501.604 179.705)
 		)
 		(stroke
@@ -20509,8 +19550,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 98.806 230.759) (xy 101.6 230.759)
 		)
 		(stroke
@@ -20521,7 +19560,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 73.406 181.61) (xy 73.406 180.467)
 		)
 		(stroke
@@ -20542,8 +19580,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 91.186 193.548) (xy 104.14 193.548)
 		)
 		(stroke
@@ -20554,7 +19590,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 370.332 283.083) (xy 370.332 262.636)
 		)
 		(stroke
@@ -20585,9 +19620,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 219.583 157.226) (xy 213.487 157.226)
-=======
 			(xy 89.662 274.447) (xy 91.059 274.447)
 		)
 		(stroke
@@ -20599,7 +19631,6 @@
 	(wire
 		(pts
 			(xy 248.92 157.988) (xy 242.824 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20669,11 +19700,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 193.548 156.21) (xy 193.548 148.844)
-=======
 			(xy 222.885 156.972) (xy 222.885 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20713,11 +19740,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.865 193.548) (xy 76.581 193.548)
-=======
 			(xy 62.865 193.548) (xy 78.994 193.548)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20747,11 +19770,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 186.69) (xy 243.713 186.69)
-=======
 			(xy 238.125 187.452) (xy 273.05 187.452)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20821,11 +19840,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 238.252 148.844) (xy 232.029 148.844)
-=======
 			(xy 267.589 149.606) (xy 261.366 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20835,11 +19850,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.806 131.826) (xy 98.806 133.096)
-=======
 			(xy 126.365 131.826) (xy 126.365 133.096)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20889,11 +19900,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 219.583 148.844) (xy 213.487 148.844)
-=======
 			(xy 248.92 149.606) (xy 242.824 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20903,11 +19910,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 201.93) (xy 235.839 201.93)
-=======
 			(xy 238.125 202.692) (xy 265.176 202.692)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20917,11 +19920,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 161.417 173.609) (xy 161.417 201.93)
-=======
 			(xy 190.754 174.371) (xy 190.754 202.692)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -20941,11 +19940,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.257 191.77) (xy 168.148 191.77)
-=======
 			(xy 180.594 192.532) (xy 197.485 192.532)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21015,11 +20010,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 250.571 148.844) (xy 244.348 148.844)
-=======
 			(xy 279.908 149.606) (xy 273.685 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21089,11 +20080,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.045 133.096) (xy 106.045 133.858)
-=======
 			(xy 133.604 133.096) (xy 133.604 133.858)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21113,11 +20100,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 62.992 147.828) (xy 76.581 147.828)
-=======
 			(xy 62.992 147.828) (xy 78.867 147.828)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21147,11 +20130,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 168.148 196.85) (xy 151.257 196.85)
-=======
 			(xy 197.485 197.612) (xy 180.594 197.612)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21181,11 +20160,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.95 151.13) (xy 107.95 160.528)
-=======
 			(xy 135.509 151.13) (xy 135.509 160.528)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21225,11 +20200,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 151.384 176.53) (xy 168.148 176.53)
-=======
 			(xy 180.721 177.292) (xy 197.485 177.292)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21299,11 +20270,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 221.869 165.1) (xy 228.854 165.1)
-=======
 			(xy 251.206 165.862) (xy 258.191 165.862)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21343,9 +20310,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 210.82 189.23) (xy 210.82 202.692)
-=======
 			(xy 101.473 143.383) (xy 101.473 142.24)
 		)
 		(stroke
@@ -21367,7 +20331,6 @@
 	(wire
 		(pts
 			(xy 240.157 189.992) (xy 240.157 203.454)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21387,11 +20350,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 91.821 199.898) (xy 91.821 201.549)
-=======
 			(xy 119.38 199.898) (xy 119.38 201.549)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21441,11 +20400,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 106.934 249.047) (xy 107.823 249.047)
-=======
 			(xy 134.62 249.047) (xy 135.509 249.047)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21665,11 +20620,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 187.706 148.844) (xy 184.912 148.844)
-=======
 			(xy 217.043 149.606) (xy 214.249 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21689,11 +20640,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 187.706 148.844) (xy 190.754 148.844)
-=======
 			(xy 217.043 149.606) (xy 220.091 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21743,11 +20690,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 161.417 165.1) (xy 161.417 165.989)
-=======
 			(xy 190.754 165.862) (xy 190.754 166.751)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21757,11 +20700,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 177.038 148.844) (xy 177.038 156.21)
-=======
 			(xy 206.375 149.606) (xy 206.375 156.972)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21791,11 +20730,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 199.644 148.844) (xy 196.596 148.844)
-=======
 			(xy 228.981 149.606) (xy 225.933 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21865,11 +20800,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.823 239.649) (xy 107.823 249.047)
-=======
 			(xy 135.509 239.649) (xy 135.509 249.047)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21899,11 +20830,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 243.713 176.53) (xy 208.788 176.53)
-=======
 			(xy 273.05 177.292) (xy 238.125 177.292)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21943,11 +20870,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 113.919 239.522) (xy 113.919 254.127)
-=======
 			(xy 141.605 239.522) (xy 141.605 254.127)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -21957,11 +20880,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 154.432 173.609) (xy 154.432 189.23)
-=======
 			(xy 183.769 174.371) (xy 183.769 189.992)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22071,11 +20990,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 180.086 148.844) (xy 177.038 148.844)
-=======
 			(xy 209.423 149.606) (xy 206.375 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22085,11 +21000,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 235.839 174.244) (xy 235.839 201.93)
-=======
 			(xy 265.176 175.006) (xy 265.176 202.692)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22129,11 +21040,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 177.038 144.018) (xy 177.038 148.844)
-=======
 			(xy 206.375 144.78) (xy 206.375 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22213,8 +21120,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.789 185.928) (xy 91.186 185.928)
 		)
 		(stroke
@@ -22225,7 +21130,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 425.323 200.025) (xy 422.148 200.025)
 		)
 		(stroke
@@ -22236,11 +21140,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 98.679 213.741) (xy 98.679 215.265)
-=======
 			(xy 126.365 213.741) (xy 126.365 215.265)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22250,11 +21150,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 119.634 229.997) (xy 119.634 231.902)
-=======
 			(xy 147.32 229.997) (xy 147.32 231.902)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22294,8 +21190,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 89.662 147.828) (xy 91.059 147.828)
 		)
 		(stroke
@@ -22306,7 +21200,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 264.033 335.788) (xy 264.033 338.201)
 		)
 		(stroke
@@ -22337,11 +21230,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 190.754 148.844) (xy 193.548 148.844)
-=======
 			(xy 220.091 149.606) (xy 222.885 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22451,11 +21340,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 244.348 148.844) (xy 238.252 148.844)
-=======
 			(xy 273.685 149.606) (xy 267.589 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22475,11 +21360,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 114.046 141.478) (xy 119.761 141.478)
-=======
 			(xy 141.605 141.478) (xy 147.32 141.478)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22499,11 +21380,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 225.806 157.226) (xy 219.583 157.226)
-=======
 			(xy 255.143 157.988) (xy 248.92 157.988)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22523,11 +21400,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 199.644 156.21) (xy 199.644 148.844)
-=======
 			(xy 228.981 156.972) (xy 228.981 149.606)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22537,8 +21410,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-=======
 			(xy 101.6 286.258) (xy 101.6 287.274)
 		)
 		(stroke
@@ -22559,7 +21430,6 @@
 	)
 	(wire
 		(pts
->>>>>>> de7aab6 (5S commit)
 			(xy 40.513 274.447) (xy 46.101 274.447)
 		)
 		(stroke
@@ -22660,11 +21530,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 232.029 148.844) (xy 232.029 149.987)
-=======
 			(xy 261.366 149.606) (xy 261.366 150.749)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22704,9 +21570,6 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 208.788 199.39) (xy 228.854 199.39)
-=======
 			(xy 86.487 274.447) (xy 89.662 274.447)
 		)
 		(stroke
@@ -22718,7 +21581,6 @@
 	(wire
 		(pts
 			(xy 238.125 200.152) (xy 258.191 200.152)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22788,11 +21650,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.823 249.047) (xy 122.301 249.047)
-=======
 			(xy 135.509 249.047) (xy 149.987 249.047)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -22822,11 +21680,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 107.95 160.528) (xy 122.428 160.528)
-=======
 			(xy 135.509 160.528) (xy 149.987 160.528)
->>>>>>> de7aab6 (5S commit)
 		)
 		(stroke
 			(width 0)
@@ -23076,11 +21930,7 @@
 	)
 	(global_label "SPI1_CS1_N"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.301 249.047 0)
-=======
 		(at 149.987 249.047 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23090,11 +21940,7 @@
 		)
 		(uuid "0eb4cfe4-96fe-4d2d-a914-c8f2d96e8b6c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 136.5347 249.047 0)
-=======
 			(at 164.2207 249.047 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23150,11 +21996,7 @@
 	)
 	(global_label "SPI1_CLK0"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.555 155.448 0)
-=======
 		(at 150.114 155.448 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23164,11 +22006,7 @@
 		)
 		(uuid "1bae9bd4-a8a3-44a6-9948-ef4f01cb9dff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.5792 155.448 0)
-=======
 			(at 163.1382 155.448 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23180,11 +22018,7 @@
 	)
 	(global_label "SPI1_CLK1"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.428 243.967 0)
-=======
 		(at 150.114 243.967 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23194,11 +22028,7 @@
 		)
 		(uuid "202c5ce5-31e8-432e-bfcf-624bd456966a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.4522 243.967 0)
-=======
 			(at 163.1382 243.967 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23232,11 +22062,7 @@
 	)
 	(global_label "FPGA_IO1"
 		(shape bidirectional)
-<<<<<<< HEAD
-		(at 151.257 194.31 180)
-=======
 		(at 180.594 195.072 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23246,11 +22072,7 @@
 		)
 		(uuid "22ccf580-7ee0-41df-9572-1580e773c94b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 138.3309 194.31 0)
-=======
 			(at 167.6679 195.072 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23284,11 +22106,7 @@
 	)
 	(global_label "SPI1_MOSI"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.555 165.608 0)
-=======
 		(at 150.114 165.608 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23298,11 +22116,7 @@
 		)
 		(uuid "2a0a1912-9e9e-4ab1-947c-34733c774772")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.3978 165.608 0)
-=======
 			(at 162.9568 165.608 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23336,11 +22150,7 @@
 	)
 	(global_label "FPGA_IO3"
 		(shape bidirectional)
-<<<<<<< HEAD
-		(at 151.257 199.39 180)
-=======
 		(at 180.594 200.152 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23350,11 +22160,7 @@
 		)
 		(uuid "317c888c-d90f-4535-996b-8258b96d903d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 138.3309 199.39 0)
-=======
 			(at 167.6679 200.152 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23366,11 +22172,7 @@
 	)
 	(global_label "FPGA_IO4"
 		(shape bidirectional)
-<<<<<<< HEAD
-		(at 243.713 181.61 0)
-=======
 		(at 273.05 182.372 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23380,11 +22182,7 @@
 		)
 		(uuid "34056f3b-e223-4e2b-bd3c-7c33455f0f15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 256.6391 181.61 0)
-=======
 			(at 285.9761 182.372 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23418,11 +22216,7 @@
 	)
 	(global_label "TDI_FPGA"
 		(shape input)
-<<<<<<< HEAD
-		(at 243.713 186.69 0)
-=======
 		(at 273.05 187.452 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23432,11 +22226,7 @@
 		)
 		(uuid "3869202b-9d6d-48a0-85ad-672dfdfe9fe4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 255.2254 186.69 0)
-=======
 			(at 284.5624 187.452 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23624,11 +22414,7 @@
 	)
 	(global_label "FPGA_IO5"
 		(shape bidirectional)
-<<<<<<< HEAD
-		(at 243.713 179.07 0)
-=======
 		(at 273.05 179.832 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23638,11 +22424,7 @@
 		)
 		(uuid "4a4c6f0b-2d9a-49ec-8014-104ce70bdd8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 256.6391 179.07 0)
-=======
 			(at 285.9761 179.832 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23676,11 +22458,7 @@
 	)
 	(global_label "SPI1_CS0_N"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.428 160.528 0)
-=======
 		(at 149.987 160.528 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23690,11 +22468,7 @@
 		)
 		(uuid "4ca9edfe-663b-48d4-b28b-ec4196dc341c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 136.6617 160.528 0)
-=======
 			(at 164.2207 160.528 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23816,11 +22590,7 @@
 	)
 	(global_label "SPI0_MISO"
 		(shape output)
-<<<<<<< HEAD
-		(at 151.257 189.23 180)
-=======
 		(at 180.594 189.992 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23830,11 +22600,7 @@
 		)
 		(uuid "5d683ed1-d6b5-4456-b44b-5dde8933824d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 138.4142 189.23 0)
-=======
 			(at 167.7512 189.992 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23846,11 +22612,7 @@
 	)
 	(global_label "SPI1_MOSI"
 		(shape input)
-<<<<<<< HEAD
-		(at 122.428 254.127 0)
-=======
 		(at 150.114 254.127 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23860,11 +22622,7 @@
 		)
 		(uuid "5e7297ad-fc1b-4833-9511-de3cf2fc3a8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.2708 254.127 0)
-=======
 			(at 162.9568 254.127 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23876,11 +22634,7 @@
 	)
 	(global_label "SPI0_MOSI"
 		(shape input)
-<<<<<<< HEAD
-		(at 243.713 184.15 0)
-=======
 		(at 273.05 184.912 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23890,11 +22644,7 @@
 		)
 		(uuid "64c114ac-f9b0-474f-ad71-16203ff83267")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 256.5558 184.15 0)
-=======
 			(at 285.8928 184.912 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23928,11 +22678,7 @@
 	)
 	(global_label "RESET_N"
 		(shape input)
-<<<<<<< HEAD
-		(at 151.257 191.77 180)
-=======
 		(at 180.594 192.532 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23942,11 +22688,7 @@
 		)
 		(uuid "6df3381a-d6d6-4344-ae8c-d04e8b0809ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 140.2286 191.77 0)
-=======
 			(at 169.5656 192.532 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23958,11 +22700,7 @@
 	)
 	(global_label "TMS_FPGA"
 		(shape input)
-<<<<<<< HEAD
-		(at 243.713 191.77 0)
-=======
 		(at 273.05 192.532 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23972,11 +22710,7 @@
 		)
 		(uuid "7270114e-fc7a-45c6-ae7e-feff362e03ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 256.0115 191.77 0)
-=======
 			(at 285.3485 192.532 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24054,11 +22788,7 @@
 	)
 	(global_label "TDO_FPGA"
 		(shape output)
-<<<<<<< HEAD
-		(at 151.384 176.53 180)
-=======
 		(at 180.721 177.292 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24068,11 +22798,7 @@
 		)
 		(uuid "79dd23a1-3d66-4fb3-8c09-c7b48cf82c01")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 139.1459 176.53 0)
-=======
 			(at 168.4829 177.292 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24194,11 +22920,7 @@
 	)
 	(global_label "SPI0_CLK"
 		(shape input)
-<<<<<<< HEAD
-		(at 151.384 186.69 180)
-=======
 		(at 180.721 187.452 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24208,11 +22930,7 @@
 		)
 		(uuid "85ee86e6-d0c0-46d6-8b5d-1e4dc25321be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 139.5693 186.69 0)
-=======
 			(at 168.9063 187.452 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24268,11 +22986,7 @@
 	)
 	(global_label "SPI0_CS_N"
 		(shape input)
-<<<<<<< HEAD
-		(at 151.257 201.93 180)
-=======
 		(at 180.594 202.692 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24282,11 +22996,7 @@
 		)
 		(uuid "8d17e41f-b7b0-439a-941a-677e26112cf1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 138.2328 201.93 0)
-=======
 			(at 167.5698 202.692 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24298,11 +23008,7 @@
 	)
 	(global_label "SPI1_MISO"
 		(shape output)
-<<<<<<< HEAD
-		(at 122.555 170.688 0)
-=======
 		(at 150.114 170.688 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24312,11 +23018,7 @@
 		)
 		(uuid "8d7c7b6a-b46f-4f23-9524-b7f24d1ce238")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.3978 170.688 0)
-=======
 			(at 162.9568 170.688 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24570,11 +23272,7 @@
 	)
 	(global_label "TCK_FPGA"
 		(shape input)
-<<<<<<< HEAD
-		(at 243.713 189.23 0)
-=======
 		(at 273.05 189.992 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24584,11 +23282,7 @@
 		)
 		(uuid "9e4baf24-b899-405b-83a1-ec13cc78096b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 255.8906 189.23 0)
-=======
 			(at 285.2276 189.992 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24732,11 +23426,7 @@
 	)
 	(global_label "CLK12M"
 		(shape input)
-<<<<<<< HEAD
-		(at 151.384 179.07 180)
-=======
 		(at 180.721 179.832 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24746,11 +23436,7 @@
 		)
 		(uuid "b5322300-7094-46d6-9118-00addac4d338")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 140.9603 179.07 0)
-=======
 			(at 170.2973 179.832 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24872,11 +23558,7 @@
 	)
 	(global_label "IRQ_FPGA"
 		(shape output)
-<<<<<<< HEAD
-		(at 151.384 181.61 180)
-=======
 		(at 180.721 182.372 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24886,11 +23568,7 @@
 		)
 		(uuid "c44a3239-8f0f-4c49-bd61-eb2b7d23e315")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 139.5087 181.61 0)
-=======
 			(at 168.8457 182.372 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25276,11 +23954,7 @@
 	)
 	(global_label "FPGA_IO2"
 		(shape bidirectional)
-<<<<<<< HEAD
-		(at 151.257 196.85 180)
-=======
 		(at 180.594 197.612 180)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25290,11 +23964,7 @@
 		)
 		(uuid "e6d343f3-51e9-428e-b17e-d54a9c60009f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 138.3309 196.85 0)
-=======
 			(at 167.6679 197.612 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25416,11 +24086,7 @@
 	)
 	(global_label "SPI1_MISO"
 		(shape output)
-<<<<<<< HEAD
-		(at 122.428 259.207 0)
-=======
 		(at 150.114 259.207 0)
->>>>>>> de7aab6 (5S commit)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25430,11 +24096,7 @@
 		)
 		(uuid "f015db10-c965-459b-a246-f5f2984fca51")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 135.2708 259.207 0)
-=======
 			(at 162.9568 259.207 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25577,8 +24239,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 89.789 190.119 180)
 		(unit 1)
@@ -25721,7 +24381,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:GND")
 		(at 436.499 56.007 0)
 		(unit 1)
@@ -26004,11 +24663,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 119.634 229.235 0)
-=======
 		(at 147.32 229.235 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26017,11 +24672,7 @@
 		(dnp no)
 		(uuid "063a1899-5ad5-4825-9502-88d632e2705d")
 		(property "Reference" "#PWR0112"
-<<<<<<< HEAD
-			(at 119.634 233.045 0)
-=======
 			(at 147.32 233.045 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26030,11 +24681,7 @@
 			)
 		)
 		(property "Value" "+3.3V_ADC"
-<<<<<<< HEAD
-			(at 122.809 225.679 0)
-=======
 			(at 150.495 225.679 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26042,11 +24689,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 119.634 229.235 0)
-=======
 			(at 147.32 229.235 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26055,11 +24698,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 119.634 229.235 0)
-=======
 			(at 147.32 229.235 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26068,11 +24707,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 119.634 229.235 0)
-=======
 			(at 147.32 229.235 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26094,8 +24729,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-=======
 		(at 101.6 160.655 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26161,7 +24794,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
->>>>>>> de7aab6 (5S commit)
 		(at 257.302 64.516 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27005,11 +25637,7 @@
 	)
 	(symbol
 		(lib_id "ADS1118IDGSR:ADS1118IDGSR")
-<<<<<<< HEAD
-		(at 96.901 154.178 0)
-=======
 		(at 124.46 154.178 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27017,11 +25645,7 @@
 		(dnp no)
 		(uuid "0df0b221-9275-447d-9c88-284a54836e96")
 		(property "Reference" "U4"
-<<<<<<< HEAD
-			(at 94.0151 137.16 0)
-=======
 			(at 121.5741 137.16 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -27030,11 +25654,7 @@
 			)
 		)
 		(property "Value" "ADS1118IDGSR"
-<<<<<<< HEAD
-			(at 74.168 137.922 0)
-=======
 			(at 101.727 137.922 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -27043,11 +25663,7 @@
 			)
 		)
 		(property "Footprint" "ADS1118IDGSR:DGS0010A_M"
-<<<<<<< HEAD
-			(at 90.551 145.288 0)
-=======
 			(at 118.11 145.288 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27057,11 +25673,7 @@
 			)
 		)
 		(property "Datasheet" "ADS1118IDGSR"
-<<<<<<< HEAD
-			(at 91.059 147.828 0)
-=======
 			(at 118.618 147.828 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27071,11 +25683,7 @@
 			)
 		)
 		(property "Description" ""
-<<<<<<< HEAD
-			(at 91.059 152.654 0)
-=======
 			(at 118.618 152.654 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27234,8 +25842,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-=======
 		(at 82.677 274.447 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27313,7 +25919,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
->>>>>>> de7aab6 (5S commit)
 		(at 264.033 342.011 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27390,8 +25995,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:R")
 		(at 82.804 185.928 90)
 		(unit 1)
@@ -27469,7 +26072,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:C_Small")
 		(at 257.302 60.706 0)
 		(unit 1)
@@ -27701,8 +26303,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 89.662 278.638 180)
 		(unit 1)
@@ -27857,7 +26457,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:R")
 		(at 54.102 282.067 90)
 		(unit 1)
@@ -27875,11 +26474,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.007 282.067 90)
 			(effects
 				(font
@@ -27906,11 +26501,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.102 282.067 0)
 			(effects
 				(font
@@ -28318,11 +26909,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 119.761 140.716 0)
-=======
 		(at 147.32 140.716 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28331,11 +26918,7 @@
 		(dnp no)
 		(uuid "1bf014db-9e7a-4184-9062-40d68df4e0bc")
 		(property "Reference" "#PWR061"
-<<<<<<< HEAD
-			(at 119.761 144.526 0)
-=======
 			(at 147.32 144.526 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28344,11 +26927,7 @@
 			)
 		)
 		(property "Value" "+3.3V_ADC"
-<<<<<<< HEAD
-			(at 122.936 137.16 0)
-=======
 			(at 150.495 137.16 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28356,11 +26935,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 119.761 140.716 0)
-=======
 			(at 147.32 140.716 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28369,11 +26944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 119.761 140.716 0)
-=======
 			(at 147.32 140.716 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28382,11 +26953,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 119.761 140.716 0)
-=======
 			(at 147.32 140.716 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28408,11 +26975,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 106.045 133.858 0)
-=======
 		(at 133.604 133.858 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28420,11 +26983,7 @@
 		(dnp no)
 		(uuid "1c3a9262-2a88-47f0-9c1a-bd82dbad5f3c")
 		(property "Reference" "#PWR049"
-<<<<<<< HEAD
-			(at 106.045 140.208 0)
-=======
 			(at 133.604 140.208 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28433,11 +26992,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 106.045 137.668 0)
-=======
 			(at 133.604 137.668 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28445,11 +27000,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 106.045 133.858 0)
-=======
 			(at 133.604 133.858 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28458,11 +27009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 106.045 133.858 0)
-=======
 			(at 133.604 133.858 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28471,11 +27018,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 106.045 133.858 0)
-=======
 			(at 133.604 133.858 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28568,11 +27111,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 232.029 152.527 0)
-=======
 		(at 261.366 153.289 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28580,11 +27119,7 @@
 		(dnp no)
 		(uuid "1d67f810-34aa-4fd3-9c21-9b0ea7a58196")
 		(property "Reference" "C41"
-<<<<<<< HEAD
-			(at 227.584 150.622 0)
-=======
 			(at 256.921 151.384 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28593,11 +27128,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 226.568 154.305 0)
-=======
 			(at 255.905 155.067 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28606,11 +27137,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 232.029 152.527 0)
-=======
 			(at 261.366 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28619,11 +27146,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 232.029 152.527 0)
-=======
 			(at 261.366 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28632,11 +27155,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 232.029 152.527 0)
-=======
 			(at 261.366 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28645,11 +27164,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 229.87 155.956 0)
-=======
 			(at 259.207 156.718 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29112,11 +27627,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 207.264 158.242 0)
-=======
 		(at 236.601 159.004 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29124,11 +27635,7 @@
 		(dnp no)
 		(uuid "20337d62-4f60-4e4b-8ec3-46ac9c390dd0")
 		(property "Reference" "#PWR055"
-<<<<<<< HEAD
-			(at 207.264 164.592 0)
-=======
 			(at 236.601 165.354 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29137,11 +27644,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 207.264 161.798 0)
-=======
 			(at 236.601 162.56 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29149,11 +27652,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 207.264 158.242 0)
-=======
 			(at 236.601 159.004 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29162,11 +27661,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 207.264 158.242 0)
-=======
 			(at 236.601 159.004 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29175,11 +27670,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 207.264 158.242 0)
-=======
 			(at 236.601 159.004 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29408,11 +27899,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 76.327 284.861 90)
-=======
 			(at 104.648 284.988 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29643,27 +28130,16 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-		(lib_id "Connector:TestPoint")
-		(at 243.713 176.53 270)
-=======
 		(lib_id "Device:R")
 		(at 82.804 236.347 90)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-<<<<<<< HEAD
-		(uuid "28f57a92-a5a5-4f7d-9894-098ff6530b0c")
-		(property "Reference" "TP11"
-			(at 248.285 176.53 90)
-=======
 		(uuid "28c153df-b533-496c-89e1-a847345f4d4f")
 		(property "Reference" "R72"
 			(at 79.502 235.077 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29671,13 +28147,8 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "TestPoint"
-			(at 252.984 176.53 90)
-=======
 		(property "Value" "240"
 			(at 84.709 236.347 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29685,13 +28156,8 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 243.713 181.61 0)
-=======
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 82.804 238.125 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29700,9 +28166,6 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 243.713 181.61 0)
-=======
 			(at 82.804 236.347 0)
 			(effects
 				(font
@@ -29781,7 +28244,6 @@
 		)
 		(property "Datasheet" "~"
 			(at 273.05 182.372 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29790,11 +28252,7 @@
 			)
 		)
 		(property "Description" "test point"
-<<<<<<< HEAD
-			(at 243.713 176.53 0)
-=======
 			(at 273.05 177.292 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29816,11 +28274,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 154.432 169.799 0)
-=======
 		(at 183.769 170.561 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29828,11 +28282,7 @@
 		(dnp no)
 		(uuid "29cc5e6c-3e83-43f0-ae97-355cc70d5ea9")
 		(property "Reference" "R24"
-<<<<<<< HEAD
-			(at 149.86 166.243 0)
-=======
 			(at 179.197 167.005 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29841,11 +28291,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 149.733 169.799 0)
-=======
 			(at 179.07 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29854,11 +28300,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 152.654 169.799 90)
-=======
 			(at 181.991 170.561 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29867,11 +28309,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 154.432 169.799 0)
-=======
 			(at 183.769 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29880,11 +28318,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 154.432 169.799 0)
-=======
 			(at 183.769 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29893,11 +28327,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 151.511 173.736 0)
-=======
 			(at 180.848 174.498 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -30353,11 +28783,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 164.592 213.614 0)
-=======
 		(at 193.929 214.376 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30365,11 +28791,7 @@
 		(dnp no)
 		(uuid "3154a975-6948-4826-ac84-d05e4118b499")
 		(property "Reference" "#PWR072"
-<<<<<<< HEAD
-			(at 164.592 219.964 0)
-=======
 			(at 193.929 220.726 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30378,11 +28800,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 164.592 217.424 0)
-=======
 			(at 193.929 218.186 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30390,11 +28808,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 164.592 213.614 0)
-=======
 			(at 193.929 214.376 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30403,11 +28817,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 164.592 213.614 0)
-=======
 			(at 193.929 214.376 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30416,11 +28826,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 164.592 213.614 0)
-=======
 			(at 193.929 214.376 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30891,11 +29297,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 215.011 170.688 0)
-=======
 		(at 244.348 171.45 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30903,11 +29305,7 @@
 		(dnp no)
 		(uuid "33e09dc6-4da6-4468-b120-cb65bda74ce4")
 		(property "Reference" "R29"
-<<<<<<< HEAD
-			(at 210.439 167.132 0)
-=======
 			(at 239.776 167.894 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30916,11 +29314,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 210.312 170.688 0)
-=======
 			(at 239.649 171.45 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30929,11 +29323,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 213.233 170.688 90)
-=======
 			(at 242.57 171.45 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30942,11 +29332,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 215.011 170.688 0)
-=======
 			(at 244.348 171.45 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30955,11 +29341,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 215.011 170.688 0)
-=======
 			(at 244.348 171.45 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30968,11 +29350,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 212.09 174.625 0)
-=======
 			(at 241.427 175.387 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -31061,11 +29439,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 91.821 201.549 0)
-=======
 		(at 119.38 201.549 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31073,11 +29447,7 @@
 		(dnp no)
 		(uuid "352a4edc-1a7b-4243-8bcd-7b5247c8a457")
 		(property "Reference" "#PWR067"
-<<<<<<< HEAD
-			(at 91.821 207.899 0)
-=======
 			(at 119.38 207.899 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31086,11 +29456,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 91.821 204.978 0)
-=======
 			(at 119.38 204.978 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31098,11 +29464,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 91.821 201.549 0)
-=======
 			(at 119.38 201.549 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31111,11 +29473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 91.821 201.549 0)
-=======
 			(at 119.38 201.549 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31124,11 +29482,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 91.821 201.549 0)
-=======
 			(at 119.38 201.549 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31517,11 +29871,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 250.571 152.273 0)
-=======
 		(at 279.908 153.035 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31529,11 +29879,7 @@
 		(dnp no)
 		(uuid "3984c704-c5f3-4017-924e-91fe2ec66c26")
 		(property "Reference" "C37"
-<<<<<<< HEAD
-			(at 246.126 150.368 0)
-=======
 			(at 275.463 151.13 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31542,11 +29888,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 245.11 154.051 0)
-=======
 			(at 274.447 154.813 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31555,11 +29897,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 250.571 152.273 0)
-=======
 			(at 279.908 153.035 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31568,11 +29906,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 250.571 152.273 0)
-=======
 			(at 279.908 153.035 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31581,11 +29915,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 250.571 152.273 0)
-=======
 			(at 279.908 153.035 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31594,11 +29924,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 248.412 155.702 0)
-=======
 			(at 277.749 156.464 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31901,11 +30227,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 225.806 152.527 0)
-=======
 		(at 255.143 153.289 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31913,11 +30235,7 @@
 		(dnp no)
 		(uuid "3f28efc7-e65e-4677-99ea-684d5d68428f")
 		(property "Reference" "C40"
-<<<<<<< HEAD
-			(at 221.361 150.622 0)
-=======
 			(at 250.698 151.384 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31926,11 +30244,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 220.345 154.305 0)
-=======
 			(at 249.682 155.067 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31939,11 +30253,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 225.806 152.527 0)
-=======
 			(at 255.143 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31952,11 +30262,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 225.806 152.527 0)
-=======
 			(at 255.143 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31965,11 +30271,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 225.806 152.527 0)
-=======
 			(at 255.143 153.289 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31978,11 +30280,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 223.647 155.956 0)
-=======
 			(at 252.984 156.718 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32075,11 +30373,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 238.252 152.4 0)
-=======
 		(at 267.589 153.162 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32087,11 +30381,7 @@
 		(dnp no)
 		(uuid "3f6cfbc4-4771-4389-9e51-9a3d39dba15e")
 		(property "Reference" "C38"
-<<<<<<< HEAD
-			(at 233.807 150.495 0)
-=======
 			(at 263.144 151.257 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32100,11 +30390,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 232.791 154.178 0)
-=======
 			(at 262.128 154.94 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32113,11 +30399,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 238.252 152.4 0)
-=======
 			(at 267.589 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32126,11 +30408,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 238.252 152.4 0)
-=======
 			(at 267.589 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32139,11 +30417,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 238.252 152.4 0)
-=======
 			(at 267.589 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32152,11 +30426,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 236.093 155.829 0)
-=======
 			(at 265.43 156.591 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32321,27 +30591,16 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-		(lib_id "Device:R")
-		(at 164.592 207.772 0)
-=======
 		(lib_id "Device:C_Small")
 		(at 96.393 197.739 90)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-<<<<<<< HEAD
-		(uuid "4209fe70-e38a-440e-ae0e-01852635b555")
-		(property "Reference" "R36"
-			(at 159.131 206.502 0)
-=======
 		(uuid "41eae53b-7fc5-4859-ba89-22fe984669b4")
 		(property "Reference" "C87"
 			(at 95.123 196.469 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32349,13 +30608,8 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "4.7k"
-			(at 159.004 208.788 0)
-=======
 		(property "Value" "0.1uF"
 			(at 102.997 196.469 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32363,13 +30617,8 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 162.814 207.772 90)
-=======
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 96.393 197.739 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32378,9 +30627,6 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 164.592 207.772 0)
-=======
 			(at 96.393 197.739 0)
 			(effects
 				(font
@@ -32459,7 +30705,6 @@
 		)
 		(property "Datasheet" "~"
 			(at 193.929 208.534 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32468,11 +30713,7 @@
 			)
 		)
 		(property "Description" "0201WMF4701TEE"
-<<<<<<< HEAD
-			(at 164.592 207.772 0)
-=======
 			(at 193.929 208.534 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32481,11 +30722,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 161.671 211.709 0)
-=======
 			(at 191.008 212.471 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -33116,8 +31353,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 89.662 152.019 180)
 		(unit 1)
@@ -33195,7 +31430,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:R")
 		(at 110.617 48.387 0)
 		(unit 1)
@@ -33833,11 +32067,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 114.046 147.193 0)
-=======
 		(at 141.605 147.193 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33846,11 +32076,7 @@
 		(dnp no)
 		(uuid "4dc74573-70f7-49fe-b9cd-b97ce2b846f9")
 		(property "Reference" "R54"
-<<<<<<< HEAD
-			(at 118.618 143.637 0)
-=======
 			(at 146.177 143.637 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33859,11 +32085,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 118.745 147.193 0)
-=======
 			(at 146.304 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33872,11 +32094,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 115.824 147.193 90)
-=======
 			(at 143.383 147.193 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33885,11 +32103,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 114.046 147.193 0)
-=======
 			(at 141.605 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33898,11 +32112,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 114.046 147.193 0)
-=======
 			(at 141.605 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33911,11 +32121,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 116.967 151.13 0)
-=======
 			(at 144.526 151.13 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -34092,8 +32298,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "power:GND")
 		(at 101.727 198.755 0)
 		(unit 1)
@@ -34159,7 +32363,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "MT9700:MT9700")
 		(at 111.887 35.687 0)
 		(unit 1)
@@ -34325,11 +32528,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 161.417 169.799 0)
-=======
 		(at 190.754 170.561 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34337,11 +32536,7 @@
 		(dnp no)
 		(uuid "511d81d8-2f98-4ff2-ab89-632f894a344a")
 		(property "Reference" "R25"
-<<<<<<< HEAD
-			(at 156.845 166.243 0)
-=======
 			(at 186.182 167.005 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34350,11 +32545,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 156.718 169.799 0)
-=======
 			(at 186.055 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34363,11 +32554,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 159.639 169.799 90)
-=======
 			(at 188.976 170.561 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34376,11 +32563,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 161.417 169.799 0)
-=======
 			(at 190.754 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34389,11 +32572,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 161.417 169.799 0)
-=======
 			(at 190.754 170.561 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34402,11 +32581,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 158.496 173.736 0)
-=======
 			(at 187.833 174.498 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -34430,8 +32605,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-=======
 		(at 96.266 286.258 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34510,7 +32683,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
->>>>>>> de7aab6 (5S commit)
 		(at 179.705 41.275 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34653,11 +32825,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 107.823 235.839 0)
-=======
 		(at 135.509 235.839 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34666,11 +32834,7 @@
 		(dnp no)
 		(uuid "547908f9-4911-49dd-ab36-a61e73bc8f92")
 		(property "Reference" "R66"
-<<<<<<< HEAD
-			(at 112.395 232.283 0)
-=======
 			(at 140.081 232.283 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34679,11 +32843,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 112.522 235.839 0)
-=======
 			(at 140.208 235.839 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34692,11 +32852,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 109.601 235.839 90)
-=======
 			(at 137.287 235.839 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34705,11 +32861,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 107.823 235.839 0)
-=======
 			(at 135.509 235.839 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34718,11 +32870,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 107.823 235.839 0)
-=======
 			(at 135.509 235.839 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34731,11 +32879,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 110.744 239.776 0)
-=======
 			(at 138.43 239.776 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -34758,8 +32902,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:R")
 		(at 82.804 243.967 90)
 		(unit 1)
@@ -34837,7 +32979,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:C_Small")
 		(at 503.682 110.998 0)
 		(unit 1)
@@ -35060,8 +33201,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 96.393 248.158 90)
 		(unit 1)
@@ -35139,7 +33278,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:PWR_FLAG")
 		(at 272.796 54.356 270)
 		(unit 1)
@@ -35348,11 +33486,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 98.679 217.805 0)
-=======
 		(at 126.365 217.805 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35360,11 +33494,7 @@
 		(dnp no)
 		(uuid "5c961bb3-f69c-4c31-9f13-d1653cba3da5")
 		(property "Reference" "C52"
-<<<<<<< HEAD
-			(at 94.234 215.9 0)
-=======
 			(at 121.92 215.9 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35373,11 +33503,7 @@
 			)
 		)
 		(property "Value" "0.01uF"
-<<<<<<< HEAD
-			(at 91.948 219.456 0)
-=======
 			(at 119.634 219.456 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35386,11 +33512,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 98.679 217.805 0)
-=======
 			(at 126.365 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35399,11 +33521,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 98.679 217.805 0)
-=======
 			(at 126.365 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35412,11 +33530,7 @@
 			)
 		)
 		(property "Description" "0201B103K250NT"
-<<<<<<< HEAD
-			(at 98.679 217.805 0)
-=======
 			(at 126.365 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35425,11 +33539,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 96.139 221.107 0)
-=======
 			(at 123.825 221.107 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36045,11 +34155,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 107.95 147.32 0)
-=======
 		(at 135.509 147.32 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36058,11 +34164,7 @@
 		(dnp no)
 		(uuid "62d3f672-c71e-4177-bb8a-eb125e3cc622")
 		(property "Reference" "R57"
-<<<<<<< HEAD
-			(at 112.522 143.764 0)
-=======
 			(at 140.081 143.764 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36071,11 +34173,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 112.649 147.32 0)
-=======
 			(at 140.208 147.32 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36084,11 +34182,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 109.728 147.32 90)
-=======
 			(at 137.287 147.32 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36097,11 +34191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 107.95 147.32 0)
-=======
 			(at 135.509 147.32 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36110,11 +34200,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 107.95 147.32 0)
-=======
 			(at 135.509 147.32 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36123,11 +34209,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 110.871 151.257 0)
-=======
 			(at 138.43 151.257 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -36151,11 +34233,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 228.854 170.434 0)
-=======
 		(at 258.191 171.196 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36163,11 +34241,7 @@
 		(dnp no)
 		(uuid "6441c343-f933-47b8-afc5-123653e689da")
 		(property "Reference" "R26"
-<<<<<<< HEAD
-			(at 223.393 169.164 0)
-=======
 			(at 252.73 169.926 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36176,11 +34250,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-<<<<<<< HEAD
-			(at 223.266 171.45 0)
-=======
 			(at 252.603 172.212 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36189,11 +34259,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 227.076 170.434 90)
-=======
 			(at 256.413 171.196 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36202,11 +34268,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 228.854 170.434 0)
-=======
 			(at 258.191 171.196 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36215,11 +34277,7 @@
 			)
 		)
 		(property "Description" "0201WMF4701TEE"
-<<<<<<< HEAD
-			(at 228.854 170.434 0)
-=======
 			(at 258.191 171.196 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36228,11 +34286,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 225.933 174.371 0)
-=======
 			(at 255.27 175.133 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -37002,11 +35056,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 235.839 164.211 0)
-=======
 		(at 265.176 164.973 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37014,11 +35064,7 @@
 		(dnp no)
 		(uuid "6af35cad-b2a0-481a-a3a3-7fd6f5af3c7c")
 		(property "Reference" "#PWR057"
-<<<<<<< HEAD
-			(at 235.839 168.021 0)
-=======
 			(at 265.176 168.783 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37027,11 +35073,7 @@
 			)
 		)
 		(property "Value" "+3.3V_D"
-<<<<<<< HEAD
-			(at 235.712 160.655 0)
-=======
 			(at 265.049 161.417 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37039,11 +35081,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 235.839 164.211 0)
-=======
 			(at 265.176 164.973 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37052,11 +35090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 235.839 164.211 0)
-=======
 			(at 265.176 164.973 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37065,11 +35099,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 235.839 164.211 0)
-=======
 			(at 265.176 164.973 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37387,8 +35417,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 96.139 268.859 90)
 		(unit 1)
@@ -37532,7 +35560,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:R")
 		(at 54.102 236.347 90)
 		(unit 1)
@@ -37550,11 +35577,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.007 236.347 90)
 			(effects
 				(font
@@ -37581,11 +35604,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.102 236.347 0)
 			(effects
 				(font
@@ -37635,11 +35654,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.134 185.928 90)
 			(effects
 				(font
@@ -37666,11 +35681,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.229 185.928 0)
 			(effects
 				(font
@@ -37899,8 +35910,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "power:GND")
 		(at 101.727 249.174 0)
 		(unit 1)
@@ -37966,7 +35975,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:R")
 		(at 46.228 180.975 0)
 		(unit 1)
@@ -38345,11 +36353,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 244.348 152.4 0)
-=======
 		(at 273.685 153.162 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38357,11 +36361,7 @@
 		(dnp no)
 		(uuid "78e6a9e5-998e-43e6-ac1a-d6240bf220ed")
 		(property "Reference" "C39"
-<<<<<<< HEAD
-			(at 239.903 150.495 0)
-=======
 			(at 269.24 151.257 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38370,11 +36370,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 238.887 154.178 0)
-=======
 			(at 268.224 154.94 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38383,11 +36379,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 244.348 152.4 0)
-=======
 			(at 273.685 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38396,11 +36388,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 244.348 152.4 0)
-=======
 			(at 273.685 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38409,11 +36397,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 244.348 152.4 0)
-=======
 			(at 273.685 153.162 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38422,11 +36406,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 242.189 155.829 0)
-=======
 			(at 271.526 156.591 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38503,11 +36483,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 76.327 229.616 90)
-=======
 			(at 76.835 229.616 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38894,11 +36870,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 106.045 129.159 0)
-=======
 		(at 133.604 129.159 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38906,11 +36878,7 @@
 		(dnp no)
 		(uuid "7e9df7ca-e1e7-45da-aaf3-e75301d9ae3f")
 		(property "Reference" "C31"
-<<<<<<< HEAD
-			(at 101.6 127.254 0)
-=======
 			(at 129.159 127.254 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38919,11 +36887,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 100.33 131.445 0)
-=======
 			(at 127.889 131.445 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38932,11 +36896,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 106.045 129.159 0)
-=======
 			(at 133.604 129.159 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38945,11 +36905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 106.045 129.159 0)
-=======
 			(at 133.604 129.159 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38958,11 +36914,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 106.045 129.159 0)
-=======
 			(at 133.604 129.159 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38971,11 +36923,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 108.458 131.445 0)
-=======
 			(at 136.017 131.445 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39298,8 +37246,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 96.266 159.639 90)
 		(unit 1)
@@ -39377,7 +37323,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:+3.3V")
 		(at 448.183 106.172 0)
 		(unit 1)
@@ -40300,11 +38245,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 113.919 235.712 0)
-=======
 		(at 141.605 235.712 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40313,11 +38254,7 @@
 		(dnp no)
 		(uuid "8ecff520-850b-4b7c-b6a2-641634c3a4ec")
 		(property "Reference" "R58"
-<<<<<<< HEAD
-			(at 118.491 232.156 0)
-=======
 			(at 146.177 232.156 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40326,11 +38263,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 118.618 235.712 0)
-=======
 			(at 146.304 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40339,11 +38272,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 115.697 235.712 90)
-=======
 			(at 143.383 235.712 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40352,11 +38281,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 113.919 235.712 0)
-=======
 			(at 141.605 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40365,11 +38290,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 113.919 235.712 0)
-=======
 			(at 141.605 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40378,11 +38299,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 116.84 239.649 0)
-=======
 			(at 144.526 239.649 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -40406,11 +38323,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 119.761 147.193 0)
-=======
 		(at 147.32 147.193 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40419,11 +38332,7 @@
 		(dnp no)
 		(uuid "90178713-952f-4ee4-b359-fb359c6d8062")
 		(property "Reference" "R23"
-<<<<<<< HEAD
-			(at 124.333 143.637 0)
-=======
 			(at 151.892 143.637 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40432,11 +38341,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 124.46 147.193 0)
-=======
 			(at 152.019 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40445,11 +38350,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 121.539 147.193 90)
-=======
 			(at 149.098 147.193 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40458,11 +38359,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 119.761 147.193 0)
-=======
 			(at 147.32 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40471,11 +38368,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 119.761 147.193 0)
-=======
 			(at 147.32 147.193 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40484,11 +38377,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 124.206 151.13 0)
-=======
 			(at 151.765 151.13 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -40722,11 +38611,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 161.417 164.465 0)
-=======
 		(at 190.754 165.227 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40734,11 +38619,7 @@
 		(dnp no)
 		(uuid "91226546-592f-4db9-ac86-1b8bb9061bbb")
 		(property "Reference" "#PWR058"
-<<<<<<< HEAD
-			(at 161.417 168.275 0)
-=======
 			(at 190.754 169.037 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40747,11 +38628,7 @@
 			)
 		)
 		(property "Value" "+3.3V_D"
-<<<<<<< HEAD
-			(at 161.29 160.909 0)
-=======
 			(at 190.627 161.671 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40759,11 +38636,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 161.417 164.465 0)
-=======
 			(at 190.754 165.227 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40772,11 +38645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 161.417 164.465 0)
-=======
 			(at 190.754 165.227 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40785,11 +38654,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 161.417 164.465 0)
-=======
 			(at 190.754 165.227 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41156,11 +39021,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.134 193.548 90)
 			(effects
 				(font
@@ -41187,11 +39048,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.229 193.548 0)
 			(effects
 				(font
@@ -41278,11 +39135,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 76.327 246.761 90)
-=======
 			(at 76.962 246.761 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41399,11 +39252,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.134 147.828 90)
 			(effects
 				(font
@@ -42271,8 +40120,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 96.266 230.759 90)
 		(unit 1)
@@ -42350,7 +40197,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:R")
 		(at 54.229 155.448 90)
 		(unit 1)
@@ -42368,11 +40214,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.134 155.448 90)
 			(effects
 				(font
@@ -42399,11 +40241,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.229 155.448 0)
 			(effects
 				(font
@@ -43315,8 +41153,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-=======
 		(at 101.473 270.002 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43382,7 +41218,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
->>>>>>> de7aab6 (5S commit)
 		(at 225.425 47.625 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43461,11 +41296,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 98.806 129.286 0)
-=======
 		(at 126.365 129.286 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43473,11 +41304,7 @@
 		(dnp no)
 		(uuid "af0fdd5a-3fc0-494b-a79b-7111fb32abe3")
 		(property "Reference" "C32"
-<<<<<<< HEAD
-			(at 94.361 127.381 0)
-=======
 			(at 121.92 127.381 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43486,11 +41313,7 @@
 			)
 		)
 		(property "Value" "0.01uF"
-<<<<<<< HEAD
-			(at 92.075 130.937 0)
-=======
 			(at 119.634 130.937 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43499,11 +41322,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 98.806 129.286 0)
-=======
 			(at 126.365 129.286 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43512,11 +41331,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 98.806 129.286 0)
-=======
 			(at 126.365 129.286 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43525,11 +41340,7 @@
 			)
 		)
 		(property "Description" "0201B103K250NT"
-<<<<<<< HEAD
-			(at 98.806 129.286 0)
-=======
 			(at 126.365 129.286 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43538,11 +41349,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 96.266 132.588 0)
-=======
 			(at 123.825 132.588 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43717,11 +41524,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 210.82 206.502 0)
-=======
 		(at 240.157 207.264 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43729,11 +41532,7 @@
 		(dnp no)
 		(uuid "b1c2d7a7-e63e-455f-9577-26a7c03692dd")
 		(property "Reference" "R35"
-<<<<<<< HEAD
-			(at 205.359 205.232 0)
-=======
 			(at 234.696 205.994 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43742,11 +41541,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-<<<<<<< HEAD
-			(at 205.232 207.518 0)
-=======
 			(at 234.569 208.28 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43755,11 +41550,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 209.042 206.502 90)
-=======
 			(at 238.379 207.264 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43768,11 +41559,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 210.82 206.502 0)
-=======
 			(at 240.157 207.264 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43781,11 +41568,7 @@
 			)
 		)
 		(property "Description" "0201WMF2201TEE"
-<<<<<<< HEAD
-			(at 210.82 206.502 0)
-=======
 			(at 240.157 207.264 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43794,11 +41577,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 207.899 210.439 0)
-=======
 			(at 237.236 211.201 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -44541,11 +42320,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 210.82 211.455 0)
-=======
 		(at 240.157 212.217 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44553,11 +42328,7 @@
 		(dnp no)
 		(uuid "ba6683aa-f9aa-4799-8c8b-b2ba4f8c1e0b")
 		(property "Reference" "#PWR069"
-<<<<<<< HEAD
-			(at 210.82 217.805 0)
-=======
 			(at 240.157 218.567 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44566,11 +42337,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 210.82 215.265 0)
-=======
 			(at 240.157 216.027 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44578,11 +42345,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 210.82 211.455 0)
-=======
 			(at 240.157 212.217 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44591,11 +42354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 210.82 211.455 0)
-=======
 			(at 240.157 212.217 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44604,11 +42363,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 210.82 211.455 0)
-=======
 			(at 240.157 212.217 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45066,11 +42821,7 @@
 	)
 	(symbol
 		(lib_id "ADS1118IDGSR:ADS1118IDGSR")
-<<<<<<< HEAD
-		(at 96.774 242.697 0)
-=======
 		(at 124.46 242.697 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -45078,11 +42829,7 @@
 		(dnp no)
 		(uuid "bf24b452-d418-40e2-8931-fd4e1b9506d7")
 		(property "Reference" "U7"
-<<<<<<< HEAD
-			(at 93.8881 224.79 0)
-=======
 			(at 121.5741 224.79 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -45091,11 +42838,7 @@
 			)
 		)
 		(property "Value" "ADS1118IDGSR"
-<<<<<<< HEAD
-			(at 73.406 225.044 0)
-=======
 			(at 101.092 225.044 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -45104,11 +42847,7 @@
 			)
 		)
 		(property "Footprint" "ADS1118IDGSR:DGS0010A_M"
-<<<<<<< HEAD
-			(at 90.424 233.807 0)
-=======
 			(at 118.11 233.807 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45118,11 +42857,7 @@
 			)
 		)
 		(property "Datasheet" "ADS1118IDGSR"
-<<<<<<< HEAD
-			(at 90.932 236.347 0)
-=======
 			(at 118.618 236.347 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45132,11 +42867,7 @@
 			)
 		)
 		(property "Description" ""
-<<<<<<< HEAD
-			(at 90.932 241.173 0)
-=======
 			(at 118.618 241.173 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45595,8 +43326,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "power:GND")
 		(at 101.6 287.274 0)
 		(unit 1)
@@ -45662,7 +43391,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "Device:C_Small")
 		(at 108.966 100.203 0)
 		(unit 1)
@@ -45882,8 +43610,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 89.789 240.538 180)
 		(unit 1)
@@ -45961,7 +43687,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_name "+3.3V_3")
 		(lib_id "power:+3.3V")
 		(at 40.513 365.125 0)
@@ -46188,11 +43913,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.007 274.447 90)
 			(effects
 				(font
@@ -46219,11 +43940,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.102 274.447 0)
 			(effects
 				(font
@@ -46257,11 +43974,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 221.869 170.561 0)
-=======
 		(at 251.206 171.323 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46269,11 +43982,7 @@
 		(dnp no)
 		(uuid "c9bca39c-224d-41b5-909a-e52d2276fc81")
 		(property "Reference" "R28"
-<<<<<<< HEAD
-			(at 216.408 169.291 0)
-=======
 			(at 245.745 170.053 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46282,11 +43991,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-<<<<<<< HEAD
-			(at 216.281 171.577 0)
-=======
 			(at 245.618 172.339 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46295,11 +44000,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 220.091 170.561 90)
-=======
 			(at 249.428 171.323 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46308,11 +44009,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 221.869 170.561 0)
-=======
 			(at 251.206 171.323 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46321,11 +44018,7 @@
 			)
 		)
 		(property "Description" "WR02X222JAL"
-<<<<<<< HEAD
-			(at 221.869 170.561 0)
-=======
 			(at 251.206 171.323 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46334,11 +44027,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 218.948 174.498 0)
-=======
 			(at 248.285 175.26 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -46594,11 +44283,7 @@
 	)
 	(symbol
 		(lib_id "LCMXO2-1200HC-4SG32I:LCMXO2-1200HC-4SG32I")
-<<<<<<< HEAD
-		(at 168.148 176.53 0)
-=======
 		(at 197.485 177.292 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46606,11 +44291,7 @@
 		(dnp no)
 		(uuid "cc5e1b44-eb81-451c-be84-81f158a73349")
 		(property "Reference" "IC4"
-<<<<<<< HEAD
-			(at 187.325 220.218 0)
-=======
 			(at 216.662 220.98 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46619,11 +44300,7 @@
 			)
 		)
 		(property "Value" "LCMXO2-1200HC-4SG32I"
-<<<<<<< HEAD
-			(at 187.198 222.504 0)
-=======
 			(at 216.535 223.266 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46632,11 +44309,7 @@
 			)
 		)
 		(property "Footprint" "LCMXO2-1200HC-4SG32I:QFN50P500X500X60-33N_handsolder"
-<<<<<<< HEAD
-			(at 204.978 166.116 0)
-=======
 			(at 234.315 166.878 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46646,11 +44319,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.arrow.com/en/products/lcmxo2-1200hc-4sg32i/lattice-semiconductor"
-<<<<<<< HEAD
-			(at 204.978 358.75 0)
-=======
 			(at 234.315 359.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46660,11 +44329,7 @@
 			)
 		)
 		(property "Description" "IC FPGA 21 I/O 32QFN"
-<<<<<<< HEAD
-			(at 168.148 170.942 0)
-=======
 			(at 197.485 171.704 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46673,11 +44338,7 @@
 			)
 		)
 		(property "Height" "0.6"
-<<<<<<< HEAD
-			(at 204.978 558.75 0)
-=======
 			(at 234.315 559.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46687,11 +44348,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Lattice Semiconductor"
-<<<<<<< HEAD
-			(at 204.978 658.75 0)
-=======
 			(at 234.315 659.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46701,11 +44358,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LCMXO2-1200HC-4SG32I"
-<<<<<<< HEAD
-			(at 204.978 758.75 0)
-=======
 			(at 234.315 759.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46715,11 +44368,7 @@
 			)
 		)
 		(property "Mouser Part Number" "842-MXO21200HC4SG32I"
-<<<<<<< HEAD
-			(at 204.978 858.75 0)
-=======
 			(at 234.315 859.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46729,11 +44378,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lattice/LCMXO2-1200HC-4SG32I?qs=Zwj7mHVHPHR0lLJHkE48zQ%3D%3D"
-<<<<<<< HEAD
-			(at 204.978 958.75 0)
-=======
 			(at 234.315 959.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46743,11 +44388,7 @@
 			)
 		)
 		(property "Arrow Part Number" "LCMXO2-1200HC-4SG32I"
-<<<<<<< HEAD
-			(at 204.978 1058.75 0)
-=======
 			(at 234.315 1059.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46757,11 +44398,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/lcmxo2-1200hc-4sg32i/lattice-semiconductor?region=nac"
-<<<<<<< HEAD
-			(at 204.978 1158.75 0)
-=======
 			(at 234.315 1159.512 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46771,11 +44408,7 @@
 			)
 		)
 		(property "LCSC" "https://www.lcsc.com/product-detail/Programmable-Logic-Device-CPLDs-FPGAs_Lattice-LCMXO2-1200HC-4SG32I_C1551142.html"
-<<<<<<< HEAD
-			(at 168.656 172.974 0)
-=======
 			(at 197.993 173.736 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47106,11 +44739,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 235.839 170.434 0)
-=======
 		(at 265.176 171.196 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47118,11 +44747,7 @@
 		(dnp no)
 		(uuid "d2ae940a-a334-4821-8239-96139fd6c023")
 		(property "Reference" "R27"
-<<<<<<< HEAD
-			(at 230.378 169.164 0)
-=======
 			(at 259.715 169.926 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47131,11 +44756,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-<<<<<<< HEAD
-			(at 230.251 171.45 0)
-=======
 			(at 259.588 172.212 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47144,11 +44765,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 234.061 170.434 90)
-=======
 			(at 263.398 171.196 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47157,11 +44774,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 235.839 170.434 0)
-=======
 			(at 265.176 171.196 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47170,11 +44783,7 @@
 			)
 		)
 		(property "Description" "0201WMF4701TEE"
-<<<<<<< HEAD
-			(at 235.839 170.434 0)
-=======
 			(at 265.176 171.196 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47183,11 +44792,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 232.918 174.371 0)
-=======
 			(at 262.255 175.133 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -47288,11 +44893,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 219.583 152.654 0)
-=======
 		(at 248.92 153.416 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47300,11 +44901,7 @@
 		(dnp no)
 		(uuid "d344b32d-6421-4c91-9c18-23199a61419c")
 		(property "Reference" "C43"
-<<<<<<< HEAD
-			(at 215.138 150.749 0)
-=======
 			(at 244.475 151.511 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47313,11 +44910,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 213.868 154.178 0)
-=======
 			(at 243.205 154.94 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47326,11 +44919,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 219.583 152.654 0)
-=======
 			(at 248.92 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47339,11 +44928,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 219.583 152.654 0)
-=======
 			(at 248.92 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47352,11 +44937,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 219.583 152.654 0)
-=======
 			(at 248.92 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47365,11 +44946,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 217.297 155.956 0)
-=======
 			(at 246.634 156.718 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47969,11 +45546,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
-		(property "Value" "510"
-=======
 		(property "Value" "240"
->>>>>>> de7aab6 (5S commit)
 			(at 56.007 243.967 90)
 			(effects
 				(font
@@ -48000,11 +45573,7 @@
 				(hide yes)
 			)
 		)
-<<<<<<< HEAD
-		(property "Description" "FRC0201J511 TS"
-=======
 		(property "Description" "RC-01W241JT"
->>>>>>> de7aab6 (5S commit)
 			(at 54.102 243.967 0)
 			(effects
 				(font
@@ -48105,11 +45674,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 105.918 217.678 0)
-=======
 		(at 133.604 217.678 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -48117,11 +45682,7 @@
 		(dnp no)
 		(uuid "d98404d6-3a2c-440f-9c07-1da22ddd9282")
 		(property "Reference" "C51"
-<<<<<<< HEAD
-			(at 101.473 215.773 0)
-=======
 			(at 129.159 215.773 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48130,11 +45691,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 100.203 219.964 0)
-=======
 			(at 127.889 219.964 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48143,11 +45700,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 105.918 217.678 0)
-=======
 			(at 133.604 217.678 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48156,11 +45709,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 105.918 217.678 0)
-=======
 			(at 133.604 217.678 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48169,11 +45718,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 105.918 217.678 0)
-=======
 			(at 133.604 217.678 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48182,11 +45727,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 108.331 219.964 0)
-=======
 			(at 136.017 219.964 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48278,8 +45819,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-=======
 		(at 101.473 143.383 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48345,7 +45884,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
->>>>>>> de7aab6 (5S commit)
 		(at 65.405 72.009 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48411,11 +45949,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 213.487 152.654 0)
-=======
 		(at 242.824 153.416 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -48423,11 +45957,7 @@
 		(dnp no)
 		(uuid "daa10e35-77f8-4bea-9e0a-7cc9524b5736")
 		(property "Reference" "C42"
-<<<<<<< HEAD
-			(at 209.042 150.749 0)
-=======
 			(at 238.379 151.511 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48436,11 +45966,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 207.899 154.305 0)
-=======
 			(at 237.236 155.067 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48449,11 +45975,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 213.487 152.654 0)
-=======
 			(at 242.824 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48462,11 +45984,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 213.487 152.654 0)
-=======
 			(at 242.824 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48475,11 +45993,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 213.487 152.654 0)
-=======
 			(at 242.824 153.416 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48488,11 +46002,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 211.201 155.956 0)
-=======
 			(at 240.538 156.718 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48659,8 +46169,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:R")
 		(at 82.677 282.067 90)
 		(unit 1)
@@ -48738,7 +46246,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:GND")
 		(at 155.194 350.139 0)
 		(unit 1)
@@ -49148,8 +46655,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-=======
 		(at 82.804 193.548 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49227,7 +46732,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
->>>>>>> de7aab6 (5S commit)
 		(at 411.099 139.065 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49653,11 +47157,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 105.918 222.377 0)
-=======
 		(at 133.604 222.377 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49665,11 +47165,7 @@
 		(dnp no)
 		(uuid "e8948ba7-8e73-454e-be37-3514c4a4f6a5")
 		(property "Reference" "#PWR075"
-<<<<<<< HEAD
-			(at 105.918 228.727 0)
-=======
 			(at 133.604 228.727 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49678,11 +47174,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 105.918 226.187 0)
-=======
 			(at 133.604 226.187 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49690,11 +47182,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 105.918 222.377 0)
-=======
 			(at 133.604 222.377 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49703,11 +47191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 105.918 222.377 0)
-=======
 			(at 133.604 222.377 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49716,11 +47200,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 105.918 222.377 0)
-=======
 			(at 133.604 222.377 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49742,11 +47222,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 91.821 124.079 0)
-=======
 		(at 119.38 124.079 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49755,11 +47231,7 @@
 		(dnp no)
 		(uuid "e8e85111-3678-417a-8bcf-036ee1b7e35c")
 		(property "Reference" "#PWR046"
-<<<<<<< HEAD
-			(at 91.821 127.889 0)
-=======
 			(at 119.38 127.889 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49768,11 +47240,7 @@
 			)
 		)
 		(property "Value" "+3.3V_ADC"
-<<<<<<< HEAD
-			(at 92.075 120.65 0)
-=======
 			(at 119.634 120.65 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49780,11 +47248,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 91.821 124.079 0)
-=======
 			(at 119.38 124.079 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49793,11 +47257,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 91.821 124.079 0)
-=======
 			(at 119.38 124.079 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49806,11 +47266,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 91.821 124.079 0)
-=======
 			(at 119.38 124.079 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50212,11 +47668,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 91.694 290.068 0)
-=======
 		(at 119.38 290.068 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -50224,11 +47676,7 @@
 		(dnp no)
 		(uuid "eb964e6d-8670-4667-841c-84f30f296ca4")
 		(property "Reference" "#PWR092"
-<<<<<<< HEAD
-			(at 91.694 296.418 0)
-=======
 			(at 119.38 296.418 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50237,11 +47685,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 91.694 293.497 0)
-=======
 			(at 119.38 293.497 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50249,11 +47693,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 91.694 290.068 0)
-=======
 			(at 119.38 290.068 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50262,11 +47702,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 91.694 290.068 0)
-=======
 			(at 119.38 290.068 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50275,11 +47711,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 91.694 290.068 0)
-=======
 			(at 119.38 290.068 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50301,11 +47733,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-<<<<<<< HEAD
-		(at 119.634 235.712 0)
-=======
 		(at 147.32 235.712 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50314,11 +47742,7 @@
 		(dnp no)
 		(uuid "ec87f1ba-ffa5-46b4-b66e-a97ad496366d")
 		(property "Reference" "R60"
-<<<<<<< HEAD
-			(at 124.206 232.156 0)
-=======
 			(at 151.892 232.156 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50327,11 +47751,7 @@
 			)
 		)
 		(property "Value" "10k"
-<<<<<<< HEAD
-			(at 124.333 235.712 0)
-=======
 			(at 152.019 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50340,11 +47760,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 121.412 235.712 90)
-=======
 			(at 149.098 235.712 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50353,11 +47769,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 119.634 235.712 0)
-=======
 			(at 147.32 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50366,11 +47778,7 @@
 			)
 		)
 		(property "Description" "RC0201FR-0710KL"
-<<<<<<< HEAD
-			(at 119.634 235.712 0)
-=======
 			(at 147.32 235.712 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50379,11 +47787,7 @@
 			)
 		)
 		(property "耐電力" "1/20W"
-<<<<<<< HEAD
-			(at 124.079 239.649 0)
-=======
 			(at 151.765 239.649 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -50471,8 +47875,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:C_Small")
 		(at 96.266 180.34 90)
 		(unit 1)
@@ -50550,7 +47952,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:GND")
 		(at 147.32 400.05 0)
 		(unit 1)
@@ -50973,11 +48374,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 76.327 267.716 90)
-=======
 			(at 104.394 267.589 90)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51728,11 +49125,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 184.912 217.043 0)
-=======
 		(at 214.249 217.805 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -51740,11 +49133,7 @@
 		(dnp no)
 		(uuid "f70c65c9-974b-4c27-8046-4f13f4332e63")
 		(property "Reference" "#PWR073"
-<<<<<<< HEAD
-			(at 184.912 223.393 0)
-=======
 			(at 214.249 224.155 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51753,11 +49142,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 184.912 220.853 0)
-=======
 			(at 214.249 221.615 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51765,11 +49150,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 184.912 217.043 0)
-=======
 			(at 214.249 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51778,11 +49159,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 184.912 217.043 0)
-=======
 			(at 214.249 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51791,11 +49168,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 184.912 217.043 0)
-=======
 			(at 214.249 217.805 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51817,11 +49190,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-<<<<<<< HEAD
-		(at 207.264 152.781 0)
-=======
 		(at 236.601 153.543 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -51829,11 +49198,7 @@
 		(dnp no)
 		(uuid "f83fffff-5fdc-4d30-8964-e1193000f05e")
 		(property "Reference" "C44"
-<<<<<<< HEAD
-			(at 202.819 150.876 0)
-=======
 			(at 232.156 151.638 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51842,11 +49207,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-<<<<<<< HEAD
-			(at 201.549 154.432 0)
-=======
 			(at 230.886 155.194 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51855,11 +49216,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-<<<<<<< HEAD
-			(at 207.264 152.781 0)
-=======
 			(at 236.601 153.543 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51868,11 +49225,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 207.264 152.781 0)
-=======
 			(at 236.601 153.543 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51881,11 +49234,7 @@
 			)
 		)
 		(property "Description" "GRM033R61E104KE14D"
-<<<<<<< HEAD
-			(at 207.264 152.781 0)
-=======
 			(at 236.601 153.543 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51894,11 +49243,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-<<<<<<< HEAD
-			(at 204.089 156.337 0)
-=======
 			(at 233.426 157.099 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51922,11 +49267,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 91.694 212.598 0)
-=======
 		(at 119.38 212.598 0)
->>>>>>> de7aab6 (5S commit)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51935,11 +49276,7 @@
 		(dnp no)
 		(uuid "f97253ef-0d0b-4313-9c14-009f7b4d6f06")
 		(property "Reference" "#PWR070"
-<<<<<<< HEAD
-			(at 91.694 216.408 0)
-=======
 			(at 119.38 216.408 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51948,11 +49285,7 @@
 			)
 		)
 		(property "Value" "+3.3V_ADC"
-<<<<<<< HEAD
-			(at 91.948 209.169 0)
-=======
 			(at 119.634 209.169 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51960,11 +49293,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 91.694 212.598 0)
-=======
 			(at 119.38 212.598 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51973,11 +49302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 91.694 212.598 0)
-=======
 			(at 119.38 212.598 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51986,11 +49311,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 91.694 212.598 0)
-=======
 			(at 119.38 212.598 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52090,8 +49411,6 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
-=======
 		(lib_id "Device:R")
 		(at 82.677 155.448 90)
 		(unit 1)
@@ -52246,7 +49565,6 @@
 		)
 	)
 	(symbol
->>>>>>> de7aab6 (5S commit)
 		(lib_id "power:GND")
 		(at 341.122 272.669 0)
 		(unit 1)
@@ -52313,11 +49631,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-<<<<<<< HEAD
-		(at 177.038 144.018 0)
-=======
 		(at 206.375 144.78 0)
->>>>>>> de7aab6 (5S commit)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -52325,11 +49639,7 @@
 		(dnp no)
 		(uuid "fda1d93c-29ec-4f2e-ab12-63d02d05e7f1")
 		(property "Reference" "#PWR053"
-<<<<<<< HEAD
-			(at 177.038 147.828 0)
-=======
 			(at 206.375 148.59 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52338,11 +49648,7 @@
 			)
 		)
 		(property "Value" "+3.3V_D"
-<<<<<<< HEAD
-			(at 176.911 140.462 0)
-=======
 			(at 206.248 141.224 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52350,11 +49656,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 177.038 144.018 0)
-=======
 			(at 206.375 144.78 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52363,11 +49665,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 177.038 144.018 0)
-=======
 			(at 206.375 144.78 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52376,11 +49674,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-<<<<<<< HEAD
-			(at 177.038 144.018 0)
-=======
 			(at 206.375 144.78 0)
->>>>>>> de7aab6 (5S commit)
 			(effects
 				(font
 					(size 1.27 1.27)
