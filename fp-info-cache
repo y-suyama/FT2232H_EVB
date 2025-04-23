@@ -1,4 +1,4 @@
-24788964045171008
+24790711911976747
 93LC56BT-I
 93LC56BT-I
 SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -99709,6 +99709,13 @@ LED
 2
 kanayui
 kanayui
+
+
+0
+0
+0
+kanayui
+kanayui_hakama
 
 
 0
