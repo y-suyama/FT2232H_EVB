@@ -10469,12 +10469,6 @@
 		(uuid "866d3c9d-b9d7-4631-9b3e-fb43d757d6c4")
 	)
 	(junction
-		(at 221.869 40.767)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8772a014-58d0-4f2a-b4d6-4e87d8348185")
-	)
-	(junction
 		(at 510.667 107.188)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10653,12 +10647,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9996db6f-9f8c-4e61-b644-3c24d493e692")
-	)
-	(junction
-		(at 207.391 44.323)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a211349-f73a-4da7-8c18-560471b0c137")
 	)
 	(junction
 		(at 18.161 94.869)
@@ -11447,16 +11435,6 @@
 			(type default)
 		)
 		(uuid "005674ea-2f95-4428-94f4-df896af3fcd3")
-	)
-	(wire
-		(pts
-			(xy 207.391 44.323) (xy 211.709 44.323)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0057ad57-6e10-4d0e-8638-538571beba7d")
 	)
 	(wire
 		(pts
@@ -12960,7 +12938,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.391 44.323) (xy 207.391 45.085)
+			(xy 207.391 40.767) (xy 207.391 45.085)
 		)
 		(stroke
 			(width 0)
@@ -14147,16 +14125,6 @@
 			(type default)
 		)
 		(uuid "49945a97-7ebc-48bd-abbe-bf0b0d6f46e4")
-	)
-	(wire
-		(pts
-			(xy 216.789 44.323) (xy 221.869 44.323)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49a24cb0-3efd-4b11-8ba6-bbc411b34826")
 	)
 	(wire
 		(pts
@@ -15837,16 +15805,6 @@
 			(type default)
 		)
 		(uuid "715ab418-e453-4be5-8997-2761b0b220fd")
-	)
-	(wire
-		(pts
-			(xy 207.391 40.767) (xy 207.391 44.323)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "715f7936-5aee-40fa-bfed-681dbdb7664e")
 	)
 	(wire
 		(pts
@@ -18457,16 +18415,6 @@
 			(type default)
 		)
 		(uuid "b1f30630-53ab-4596-a982-ede7433f1245")
-	)
-	(wire
-		(pts
-			(xy 221.869 44.323) (xy 221.869 40.767)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b25d26ca-98ab-4ed8-986e-55d4a619a24e")
 	)
 	(wire
 		(pts
@@ -49754,75 +49702,6 @@
 			(project "FT2232H_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
 					(reference "#PWR0111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 214.249 44.323 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "ff2e3904-c32e-4daa-9290-26f523e9ed0b")
-		(property "Reference" "C8"
-			(at 211.963 43.307 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10p"
-			(at 220.853 43.307 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 214.249 44.323 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.249 44.323 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 214.249 44.323 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ec42198-e096-4b7d-bbd4-39f4d11e7910")
-		)
-		(pin "2"
-			(uuid "cfa19e91-4397-492c-8d64-d7bb1e108957")
-		)
-		(instances
-			(project "FT2232H_EVB"
-				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C8")
 					(unit 1)
 				)
 			)
