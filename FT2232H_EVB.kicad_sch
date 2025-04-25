@@ -15098,16 +15098,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.971 371.983) (xy 276.225 371.983)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "621b8c80-0cd7-4d22-88f2-67ac2cddcb82")
-	)
-	(wire
-		(pts
 			(xy 91.059 147.828) (xy 104.14 147.828)
 		)
 		(stroke
@@ -19058,7 +19048,7 @@
 	)
 	(wire
 		(pts
-			(xy 268.351 371.983) (xy 265.303 371.983)
+			(xy 265.303 371.983) (xy 276.225 371.983)
 		)
 		(stroke
 			(width 0)
@@ -28884,7 +28874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW_SKRPACE010"
+		(property "Footprint" "SKRPACE010:SW_SKRPACE010"
 			(at 447.675 62.103 0)
 			(effects
 				(font
@@ -44911,83 +44901,6 @@
 			(project "FT2232H_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
 					(reference "C43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 272.161 371.983 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d3617eaa-5624-4f1f-81bd-9be9408f0874")
-		(property "Reference" "R62"
-			(at 268.859 370.713 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0"
-			(at 272.923 371.983 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 272.161 373.761 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 272.161 371.983 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "0201WMF0000TEE"
-			(at 272.161 371.983 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "耐電力" "1/20W"
-			(at 272.161 374.396 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c9f25d7a-6786-46ef-bd95-844aa0b04b4d")
-		)
-		(pin "2"
-			(uuid "e548e35b-3c78-4229-abdb-6c9ad627004b")
-		)
-		(instances
-			(project "FT2232H_EVB"
-				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R62")
 					(unit 1)
 				)
 			)
