@@ -1,4 +1,4 @@
 # FT2232H Evalution Board
 # Revision
-## Mass Production2
+## Changed to 8-layer PCB
 

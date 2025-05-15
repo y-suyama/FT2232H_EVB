@@ -42063,7 +42063,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x01"
+		(property "Value" "PH-2A"
 			(at 49.149 369.951 0)
 			(effects
 				(font
@@ -42071,7 +42071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 48.006 367.411 0)
 			(effects
 				(font

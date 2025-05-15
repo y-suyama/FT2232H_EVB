@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\work_design\\FT2232H_EVB\\FT2232H_EVB\\FT2232H_EVB.kicad_sch")
-    (date "2025-04-25T23:56:29+0900")
+    (date "2025-05-09T20:54:07+0900")
     (tool "Eeschema 9.0.0")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1880,11 +1880,11 @@
       (sheetpath (names "/") (tstamps "/"))
       (tstamps "57346e4c-c6be-483a-bf8b-6b5e5a9b5c01"))
     (comp (ref "J13")
-      (value "Conn_02x01")
-      (footprint "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical")
+      (value "PH-2A")
+      (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
       (description "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)")
       (fields
-        (field (name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical")
+        (field (name "Footprint") "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
         (field (name "Datasheet"))
         (field (name "Description") "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (libsource (lib "Connector_Generic") (part "Conn_02x01") (description "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"))
