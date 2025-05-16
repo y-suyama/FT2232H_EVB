@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.153,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -60,7 +60,7 @@
         {
           "gap": 0.2032,
           "via_gap": 0.0,
-          "width": 0.1554
+          "width": 0.1816
         }
       ],
       "drc_exclusions": [],
@@ -196,9 +196,9 @@
       "track_widths": [
         0.0,
         0.1,
-        0.1425,
-        0.1565,
         0.1582,
+        0.177,
+        0.1862,
         0.2,
         0.25,
         0.35,
@@ -503,7 +503,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1565,
+        "track_width": 0.1816,
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
@@ -512,7 +512,7 @@
         "bus_width": 12,
         "clearance": 0.2032,
         "diff_pair_gap": 0.2032,
-        "diff_pair_width": 0.1554,
+        "diff_pair_width": 0.1816,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -520,7 +520,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1582,
+        "track_width": 0.1816,
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
@@ -550,7 +550,11 @@
       },
       {
         "netclass": "usb",
-        "pattern": "USB_FT2232H-"
+        "pattern": "/RP2040_P"
+      },
+      {
+        "netclass": "usb",
+        "pattern": "/RP2040_N"
       },
       {
         "netclass": "usb",
@@ -558,7 +562,7 @@
       },
       {
         "netclass": "usb",
-        "pattern": "/FT2232H_N"
+        "pattern": "USB_FT2232H-"
       },
       {
         "netclass": "usb",
@@ -566,11 +570,7 @@
       },
       {
         "netclass": "usb",
-        "pattern": "/RP2040_P"
-      },
-      {
-        "netclass": "usb",
-        "pattern": "/RP2040_N"
+        "pattern": "/FT2232H_N"
       }
     ]
   },
